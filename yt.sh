@@ -6,6 +6,7 @@ yt-dlp -j --no-flat-playlist --skip-download "https://www.youtube.com/playlist?l
   duration,
   channel_id,
   author: .uploader,
+  date: .upload_date,
   url: (.url // .webpage_url),
   thumbnail: (.thumbnails | map(select(.width < 600 and .width > 0)) | max_by(.width) | .url),
   content: {
