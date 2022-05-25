@@ -12,5 +12,5 @@ yt-dlp -j --no-flat-playlist --skip-download "https://www.youtube.com/playlist?l
     "View count": .view_count
   }
 }' -c \
- | tee trends.json
+ | tee trends.json \
  | json2rss -t 'Youtube Trending' > feed.rss
