@@ -1,34 +1,83 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=MkGypaS-sLE" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr3---sn-vgqsknzr.googlevideo.com/videoplayback?expire=1728779014&amp;ei=pr4KZ_7FCKO0lu8P4c5Z&amp;ip=172.183.132.95&amp;id=o-AC05xepCYp72z89H7CFrhgjYFE6Wv8bendd9cJtT8ezb&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1728757414%2C&amp;mh=e4&amp;mm=31%2C29&amp;mn=sn-vgqsknzr%2Csn-vgqsrnz7&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=3&amp;pl=15&amp;rms=au%2Cau&amp;initcwndbps=1033750&amp;bui=AXLXGFQmGqf5QzcaPG2rMeMX0ys-LdaI2bHVeSDh5l3kQFQRkwveTBJdcfUjZkmm6pJSAky9Fe3_3B1M&amp;spc=54MbxU0tlClIc0QonPUjGUypu8FY0Nmcz6J69e4aqahPR-7YcoF5aMyYvuxO&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=2bEum6gW7jRBgFadEgLw7hQQ&amp;rqh=1&amp;gir=yes&amp;clen=92195065&amp;ratebypass=yes&amp;dur=1638.330&amp;lmt=1703417323793013&amp;mt=1728757015&amp;fvip=5&amp;fexp=51300760&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=l_x0zxmVYg34Sw&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIhAKxklTbDBAQ3WY6hfKkyu10r52QZhaqVPINoFHUlT9hiAiB4NRAtVviP7uqg_EI_rRCRududzqqaI7JB-o48eiTBJA%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=ACJ0pHgwRQIhAL0mciklFwzeCh8AqPpu7hMrH-X0HO25EkCCy6837D49AiBg-f1FzYjOGVDNPFgdF2G-BNKfTIzw0NiJtYOcMHqB8w%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>Have Your Donation Matched up to $100: https://secure.givewell.org/?ms=tierzoo
+    <description>This is a video about the most famous problem in Game Theory, the Prisoner’s Dilemma. Head to https://brilliant.org/veritasium  to start your free 30-day trial, and the first 200 people get 20% off an annual premium subscription.
 
-Footage:
-Biopixel
-Jam's Germs
-Ant Lab - Pistol Shrimp: https://youtu.be/eXR--I99S60?si=C6XMsKbNp9Ml4ZF1
-Getty Images
-Shutterstock
-Pond5
+Special thanks to our Patreon supporters! Join the community to help us keep our videos free, forever: 
+https://ve42.co/PatreonDEB
 
-Music:
-Gloom Spawn - The Legend of Zelda: Tears of the Kingdom OST
-Eyewitness Intro
-Black Ops 2 Theme
-Super Mario Sunshine - Delfino Plaza Original Soundtrack OST (HD)
-Azure Blue World (Emerald Coast) - Sonic Adventure [OST]
-Main Menu OST - Part 1   Wii Sports Resort
-Crash Bandicoot Soundtrack - N.Sanity Beach
-Donkey Kong Country Returns Music; Sunset Shore
-Ricco Harbor - Super Mario Sunshine
-Treasure Trove Cove - Banjo Kazooie
-Underwater - Super Mario World OST Extended
-Windy and Ripply (Emerald Coast) - Sonic Adventure [OST]
-The Trade Parade - Old School Runescape
-Eyewitness Outro</description>
-    <link>https://www.youtube.com</link>
+If you’re looking for a molecular modeling kit, try Snatoms – a kit I invented where the atoms snap together magnetically – https://ve42.co/SnatomsV   
+
+
+▀▀▀
+A massive thank you to Prof. Robert Axelrod and Prof. Steven Strogatz for their expertise and time. 
+
+To read more about Prof. Axelrod’s Passion for Cooperation visit: https://ve42.co/Axelrod2023 
+
+A massive thanks to the wonderful Nicky Case. Nicky’s “The Evolution of Trust” game was a huge inspiration for this video. We highly recommend you play this excellent game yourself, over at: https://ncase.me/trust/ 
+
+A huge thank you to those who helped us understand and fact check different parts of this topic - Dr. Christian Hilbe, Dr. Vincent Knight, Dr. Jelena Grujic, Prof. Andreas Diekmann, and Dr. Alexander Stewart.
+
+▀▀▀
+References:
+Excellent game on the evolution of trust by Nicky Case - https://ve42.co/Case2023  
+Summary of Axelrod’s work by This Place - https://www.youtube.com/watch?v=BOvAbjfJ0x0 
+How to outsmart the Prisoner’s Dilemma by TED-Ed - https://www.youtube.com/watch?v=emyi4z-O0ls&amp;pp=ygUScHJpc29uZXIncyBkaWxlbW1h 
+Tit for Tat by radiolab - https://ve42.co/T4T   
+The Golden Rule by radiolab - https://ve42.co/GoldenRule   
+Axelrod, R. (1984). The Evolution of Cooperation.
+Dawkins, R. (2016). The selfish gene. Oxford university press.
+Poundstone, W. (1992). Prisoner's Dilemma. William Poundstone.
+Nowak, M. A., &amp; Highfield, R. (2011). Supercooperators. Edinburgh: Canongate.
+Binmore, K. (2007). Game theory: a very short introduction. OUP Oxford.
+Northrup, L. &amp; Rock, D. (1966). The Detection of Joe I. - https://ve42.co/JOE1 
+Prisoner’s dilemma, Wikipedia - https://ve42.co/WikiPD
+Prisoner’s Dilemma, Stanford -  https://ve42.co/StanfordPD 
+Flood, M. M. (1952). Some experimental games. - https://ve42.co/Flood1952 
+Historical nuclear weapons stockpiles, Wikipedia - https://ve42.co/WikiNWS 
+Goodwin, I. (1998). The Price of Victory in Cold War - https://ve42.co/Goodwin1998 
+Cold war: How it happened. - https://ve42.co/CW2014 
+Axelrod, R. (1980). Effective choice in the prisoner's dilemma. Journal of conflict resolution, 24(1), 3-25. - https://ve42.co/Axelrod1980a 
+Axelrod, R. (1980). More effective choice in the prisoner's dilemma. Journal of conflict resolution, 24(3), 379-403. - https://ve42.co/Axelrod1980b 
+Axelrod, R., &amp; Hamilton, W. D. (1981). The evolution of cooperation. science, 211(4489), 1390-1396. https://ve42.co/Axelrod1981 
+Stanislav Petrov, Wikipedia - https://ve42.co/WikiSP 
+Wu, J., &amp; Axelrod, R. (1995). How to cope with noise in the iterated prisoner's dilemma. Journal of Conflict resolution, 39(1), 183-189. - https://ve42.co/Wu1995 
+INF Treaty - https://ve42.co/INF 
+START Treaties - https://ve42.co/START 
+START I, Wikipedia - https://ve42.co/WikiSTART 
+
+
+Images &amp; Video:
+RAND Historical images via rand.org - https://ve42.co/RAND  
+Golden Balls - https://www.youtube.com/watch?v=S0qjK3TWZE8
+Zotti, G., et al. (2021). The Simulated Sky: Stellarium for Cultural Astronomy Research - https://ve42.co/Stellarium  
+Newspapers from 1980s via Newspapers.com  – https://ve42.co/Newspapers  
+Decommisioned nuke image via The Moscow Times - https://ve42.co/MT2012 
+Soviet inspection image via Bulletin of the Atomic Scientists - https://ve42.co/Krzyzaniak2019  
+Decommissioning nuclear weapon via ShareAmerica - https://ve42.co/Kaufman2014 
+
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Amadeo Bee, Anton Ragin, Balkrishna Heroor, Bernard McGee, Bill Linder, Burt Humburg, Dave Kircher, Diffbot, Evgeny Skvortsov, Gnare, Jesse Brandsoy, John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Mario Bottion, Max Maladino, Meekay, meg noah, Michael Krugman, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures
+
+
+▀▀▀
+Directed by Casper Mebius
+Written by Casper Mebius, Derek Muller, Petr Lebedev, and Ashley Hamer
+Additional research and fact checking by Gregor Čavlović and Will Wood
+Edited by Peter Nelson
+Animated by Fabio Albertelli, Ivy Tello and Alondra Vitae
+Illustrations by Jakub Misiek
+Filmed by Derek Muller
+Produced by Casper Mebius, Derek Muller, Gregor Čavlović and Han Evans
+
+Additional video/photos supplied by Getty Images
+Music from Epidemic Sound
+Thumbnail by Peter Sheppard</description>
+    <link>https://rr3---sn-vgqsknzr.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
