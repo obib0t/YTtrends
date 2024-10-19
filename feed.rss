@@ -1,38 +1,86 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr4---sn-vgqsknzd.googlevideo.com/videoplayback?expire=1729236145&amp;ei=ULgRZ8S5O-PkzN0PotTjsA8&amp;ip=172.183.132.102&amp;id=o-AFl7JVtfCPBxeTVfbSQ642-S9mBSuKU0G2U9iYkciwUL&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729214544%2C&amp;mh=i3&amp;mm=31%2C29&amp;mn=sn-vgqsknzd%2Csn-vgqsrnzy&amp;ms=au%2Crdu&amp;mv=u&amp;mvi=4&amp;pl=15&amp;rms=au%2Cau&amp;bui=AXLXGFSFNj92iszGcYnMQgDJwrj6aYjKbnelEggrBaJFYwWM6_g1DjmEGef2e6O4sxcCGGLyM_T1jlkf&amp;spc=54MbxXTYjW0NvHQ5w0e2aLfPuHmfTYmQLMxSGGJuyuNR0D0Kjmis8SrAPeBsS9g&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=5sLySd7UwQVKpMFqx35dOFAQ&amp;rqh=1&amp;gir=yes&amp;clen=79612415&amp;ratebypass=yes&amp;dur=1222.251&amp;lmt=1704443403271087&amp;mt=1729213875&amp;fvip=1&amp;fexp=51300761%2C51312688&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=wR7BH5uq-KujWw&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRgIhANAbDdJ7yaV7iko7HhUzfuNwarWkf-c068y-UgD1DQZBAiEA5wX8zJUiIfpglVIVe7Dxg_P7fqNWhgFfvnkKi7Smy9k%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=ACJ0pHgwRgIhAMbzQtoWo_nshp8d6DIa-Hacz_9fYTDiEaQnhOIglQxLAiEAnC1iRR8zG3dC2x5FRWHF6-yCSPNjMqJKfSRpWW5FFRQ%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr1---sn-n4v7snll.googlevideo.com/videoplayback?expire=1729383772&amp;ei=_PgTZ96ALcX3sfIPha3OwAY&amp;ip=52.225.76.182&amp;id=o-AOG19Ui62iJttmWXqd1vuKohgWX7wEBXAT7IG6BFdRZm&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729362172%2C&amp;mh=OQ&amp;mm=31%2C26&amp;mn=sn-n4v7snll%2Csn-a5msen7z&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=18&amp;rms=au%2Cau&amp;bui=AXLXGFRAAT3DjKe5lHZW4RgskWDcYTex7_ohoNFO5Ob6TWY5uLoLWCvRy7PvyPUITGZ1aqVpkNmqzEhY&amp;spc=54MbxfCDF9V-ktwctMo_Z-eVu9pdRymrN9mkZcko1dlnWcy5ZAXkbwcADV21afE&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=VMFp1gA56BOro414gkranXIQ&amp;rqh=1&amp;gir=yes&amp;clen=39642176&amp;ratebypass=yes&amp;dur=844.045&amp;lmt=1703893667872141&amp;mt=1729361349&amp;fvip=4&amp;fexp=51312688%2C51319288&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=8O-ALdBRdhKgzg&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIgY76VDMpYhCeOjLfYG89IduSVIjh4YFTiyd51gVJRQykCIQCC38cRiR1zFm35FRnkJxyC_5byB4XJxyHtAFMWVvkl2w%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=ACJ0pHgwRgIhAMyLRw_ZsEUNY5nBacjDtQN1lIyDgqLb-TAgR2W8_R-ZAiEAzpxMNz2A7PEBuYWlkHqDa1yoJtaUgASRuU9cNTWHDlo%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>*Thanks to Rocket Money for sponsoring this video!*
-Get started with Rocket Money for FREE ► https://rocketmoney.com/styletheorists
+    <description>Go to https://brilliant.org/zefrank to get a 30-day free trial + the first 200 people will get 20% off their annual subscription.
 
-Around Black Friday 2023, TikTok shut down THOUSANDS of small business shops on its platform without warning. Yes, those small TikTok businesses that SarahGrace, HopeScope, Mia Maples, and other creators love to buy from and make haul videos about every week... they're GONE! It sounds kind of shady and downright disturbing, right? But what if we told you TikTok just saved those small businesses MILLIONS of dollars? Here’s the lowdown on the TikTok Shop scandal…
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-*🔽 Don’t Miss Out!*
-Get Your TheoryWear! ► https://theorywear.com/
-Dive into the Reddit! ► https://www.reddit.com/r/GameTheorists/
+merch: https://ze-true-store.myshopify.com/
+patreon: https://www.patreon.com/truefacts
+classical music: https://soundcloud.com/querflote/5-au...
+sponsor music: https://incompetech.com/
 
-Need Royalty Free Music for your Content? Try Epidemic Sound.
-Get Your 30 Day Free Trial Now ► https://share.epidemicsound.com/StyleTheorists
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-*👀 Watch MORE Theories:*
-SHEIN is Stealing! ►► https://youtu.be/Pp_7rK7BJ5Q
-ID Protection Shirt ►► https://youtu.be/hB2ZOHXWAqA
-$1 vs $300 Toothbrush ►► https://youtu.be/3hsDacGUdC4
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-*Join Our Other YouTube Channels!*
-​🕹️ @GameTheory 
-​🎥 @FilmTheory 
-🍔 @FoodTheory 
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-*Credits:*
-Writers: Matthew Patrick and Amy Roberts
-Editors: Jerika (NekoOnigiri), Alex &quot;Sedge&quot; Sedgwick, and Danial &quot;BanditRants&quot; Keristoufi
-Assistant Editor: AlyssaBeCrazy
-Sound Designer: Yosi Berman
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-#TikTok #TikTokShop #ViralTikTok #SmallBusiness #SmallBusinessOwner #ViralTikToks #Shopping #Scam #Amazon #AmazonPrime #TikTokProducts #Theory #StyleTheory #Matpat</description>
-    <link>https://rr4---sn-vgqsknzd.googlevideo.com</link>
+Featuring the work of:
+Dr Natalie Uomini, Max Planck Institute
+Dr Anne B. Clark, SUNY Binghamton 
+Dr Michael Griesser, University of Konstanz
+Dr Kaeli Swift, University of Washington
+Dr Alex Kacelnik, University of Oxford
+Dr Jolyon Troscianko, University of Exeter
+Dr Christian Rutz, University of St Andrews
+Dr Diana Liao, University of Tübingen
+Dr Gavin Hunt, University of Auckland
+Dr Nicola Clayton, University of Cambridge
+Dr Sonja Hillemacher, University of Bonn
+Zita Fülöp
+Neil Smith
+
+Citations:
+
+Asakawa-Haas K, et al. Partner Choice in Raven (Corvus corax) Cooperation. doi: 10.1371/journal.pone.0156962. 
+
+Bayern, A.M.P.v. et al. Compound tool construction by New Caledonian crows. https://doi.org/10.1038/s41598-018-33458-z
+
+Chappell, J et al. (2004). Selection of tool diameter by New Caledonian crows Corvus moneduloides. 10.1007/s10071-003-0202-y. 
+
+Düring DN et al. The songbird syrinx morphome: a three-dimensional, high-resolution, interactive morphological map of the zebra finch vocal organ. doi: 10.1186/1741-7007-11-1.
+
+Gruber, R. et al, New Caledonian Crows Use Mental Representations to Solve Metatool Problems, https://doi.org/10.1016/j.cub.2019.01.008.
+
+Holtmann B et al. Dominance relationships and coalitionary aggression against conspecifics in female carrion crows. doi: 10.1038/s41598-019-52177-7.
+
+Hunt, G. Manufacture and use of hook-tools by New Caledonian crows. https://doi.org/10.1038/379249a0
+
+Hunt GR, Villard P. Oscillatory extraction behaviour suggests functional attributes of crows' hooked-stick tools. doi: 10.1007/s10071-023-01749-2. 
+
+Hunt GR et al. The crafting of hook tools by wild New Caledonian crows. doi: 10.1098/rsbl.2003.0085.
+
+Hunt GR et al. Parallel tool industries in New Caledonian crows. doi: 10.1098/rsbl.2006.0603. 
+
+Hunt, G et al. (2016). A complex adaptive system may be essential for cumulative modifications in tool design. 10.2502/janip.66.2.2. 
+
+Jelbert SA et al. New Caledonian crows rapidly solve a collaborative problem without cooperative cognition. doi: 10.1371/journal.pone.0133253. 
+
+Jelbert SA et al. Using the Aesop's fable paradigm to investigate causal understanding of water displacement by New Caledonian crows. doi: 10.1371/journal.pone.0092895. 
+
+Klump, BC. et al. Hook tool manufacture in New Caledonian crows: behavioural variation and the influence of raw materials. https://doi.org/10.1186/s12915-015-0204-7
+
+Mack C et al. Modulation of behavioural laterality in wild New Caledonian crows (Corvus moneduloides): Vocalization, age and function. doi: 10.1080/1357650X.2022.2098969. 
+
+McCoy, D.E. et al. New Caledonian Crows Behave Optimistically after Using Tools, https://doi.org/10.1016/j.cub.2019.06.080.
+
+Müller, J.J.A. et al. Ravens remember the nature of a single reciprocal interaction sequence over 2 days and even after a month, https://doi.org/10.1016/j.anbehav.2017.04.004.
+
+Rutz C et al. The evolutionary origins and ecological context of tool use in New Caledonian crows. doi: 10.1016/j.beproc.2011.11.005. 
+
+St Clair JJ, Rutz C. New Caledonian crows attend to multiple functional properties of complex tools. doi: 10.1098/rstb.2012.0415.
+
+Swift, Kaeli et al. (2018). Occurrence and variability of tactile interactions between wild American crows and dead conspecifics. 10.1098/rstb.2017.0259. 
+
+Swift, K.N. et al, Wild American crows gather around their dead to learn about danger, https://doi.org/10.1016/j.anbehav.2015.08.021.
+
+Troscianko, J. Et al. Activity profiles and hook-tool use of New Caledonian crows recorded by bird-borne video cameras. doi:10.1098/rsbl.2015.0777
+
+Troscianko, J. et al. Extreme binocular vision and a straight bill facilitate tool use in New Caledonian crows. Nat Commun 3, 1110 (2012). https://doi.org/10.1038/ncomms2111
+
+Uomini N, et al. Extended parenting and the evolution of cognition. doi: 10.1098/rstb.2019.0495. 
+
+Weir, Alex et al. (2002). Shaping of Hooks in New Caledonian Crows. 10.1126/science.1073433. 
+
+Weir, A.A.S., et al. A New Caledonian crow (Corvus moneduloides) creatively re-designs tools by bending or unbending aluminium strips. https://doi.org/10.1007/s10071-006-0052-5
+
+Wimpenny JH et al. Cognitive processes associated with sequential tool use in New Caledonian crows. doi: 10.1371/journal.pone.0006471.</description>
+    <link>https://rr1---sn-n4v7snll.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
