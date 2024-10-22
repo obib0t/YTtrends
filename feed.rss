@@ -1,86 +1,67 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr1---sn-n4v7snll.googlevideo.com/videoplayback?expire=1729383772&amp;ei=_PgTZ96ALcX3sfIPha3OwAY&amp;ip=52.225.76.182&amp;id=o-AOG19Ui62iJttmWXqd1vuKohgWX7wEBXAT7IG6BFdRZm&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729362172%2C&amp;mh=OQ&amp;mm=31%2C26&amp;mn=sn-n4v7snll%2Csn-a5msen7z&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=18&amp;rms=au%2Cau&amp;bui=AXLXGFRAAT3DjKe5lHZW4RgskWDcYTex7_ohoNFO5Ob6TWY5uLoLWCvRy7PvyPUITGZ1aqVpkNmqzEhY&amp;spc=54MbxfCDF9V-ktwctMo_Z-eVu9pdRymrN9mkZcko1dlnWcy5ZAXkbwcADV21afE&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=VMFp1gA56BOro414gkranXIQ&amp;rqh=1&amp;gir=yes&amp;clen=39642176&amp;ratebypass=yes&amp;dur=844.045&amp;lmt=1703893667872141&amp;mt=1729361349&amp;fvip=4&amp;fexp=51312688%2C51319288&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=8O-ALdBRdhKgzg&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIgY76VDMpYhCeOjLfYG89IduSVIjh4YFTiyd51gVJRQykCIQCC38cRiR1zFm35FRnkJxyC_5byB4XJxyHtAFMWVvkl2w%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=ACJ0pHgwRgIhAMyLRw_ZsEUNY5nBacjDtQN1lIyDgqLb-TAgR2W8_R-ZAiEAzpxMNz2A7PEBuYWlkHqDa1yoJtaUgASRuU9cNTWHDlo%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr2---sn-vgqsknld.googlevideo.com/videoplayback?expire=1729581869&amp;ei=zP4WZ9DLNq_pybgP99Xm6AQ&amp;ip=172.183.147.147&amp;id=o-AAMhmesLpha7a90cJdKe5SBBizaK5GQ9JfbMESe_uyTY&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729560268%2C&amp;mh=XR&amp;mm=31%2C26&amp;mn=sn-vgqsknld%2Csn-q4fl6nzy&amp;ms=au%2Conr&amp;mv=m&amp;mvi=2&amp;pl=15&amp;rms=au%2Cau&amp;initcwndbps=2830000&amp;bui=AXLXGFRbpjUMmWloaCv6-MrkDh26Ex3RDSx28C3LFHb2ysbzv1HuW0bdf3U58tD6vn220wG6HbiuzeKq&amp;spc=54Mbxa_R8quDm_wnDxmoMrmNAnFpPhrVXFREqfVnjAejZ2_ju26UZiF2W0bdCM4&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=kkzUYsSD9OTd5iz2lKQVxcsQ&amp;rqh=1&amp;gir=yes&amp;clen=94533915&amp;ratebypass=yes&amp;dur=1167.383&amp;lmt=1703438830114959&amp;mt=1729559847&amp;fvip=2&amp;fexp=51312688&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=ww05mUOpwM-3fQ&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRAIgDO9LZRPypYWrBm8afjTzk4M7Vlhr20yEDOwXtc6wXrMCIHp_8tIqb_OCVzO3HIg3tRMP-LS43J1yhn6oZTDYcQdh&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=ACJ0pHgwRQIhAPJhm15ryKCzAVlTPL01ws0WUhWmslL3SmWRH3BUQCbSAiBMwktGEWr6vBwtchr4j1k1_nJxhqUft21itxYzJVRTYA%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>Go to https://brilliant.org/zefrank to get a 30-day free trial + the first 200 people will get 20% off their annual subscription.
+    <description>This video was kindly sponsored by War Thunder! It’s an incredibly comprehensive vehicle combat game that’s genuinely a lot of fun. If you download it for free with my link, you also get a huge bonus pack including vehicles, boosters, and more: https://playwt.link/soundsmith
 
-merch: https://ze-true-store.myshopify.com/
-patreon: https://www.patreon.com/truefacts
-classical music: https://soundcloud.com/querflote/5-au...
-sponsor music: https://incompetech.com/
+War Thunder is a highly detailed vehicle combat game containing over 2000 playable tanks, aircraft, and ships spanning over 100 years of development. Immerse yourself completely in dynamic battles with an unparalleled combination of realism and approachability.
 
-Featuring the work of:
-Dr Natalie Uomini, Max Planck Institute
-Dr Anne B. Clark, SUNY Binghamton 
-Dr Michael Griesser, University of Konstanz
-Dr Kaeli Swift, University of Washington
-Dr Alex Kacelnik, University of Oxford
-Dr Jolyon Troscianko, University of Exeter
-Dr Christian Rutz, University of St Andrews
-Dr Diana Liao, University of Tübingen
-Dr Gavin Hunt, University of Auckland
-Dr Nicola Clayton, University of Cambridge
-Dr Sonja Hillemacher, University of Bonn
-Zita Fülöp
-Neil Smith
+SURPRISE (again)! A Mann’s Guide to the Huntsman is real. It wasn’t a bait-and-switch, this is a double feature.
 
-Citations:
+Some people think that gaming guides should teach the viewer how to use an item or a character in the most optimal, effective way possible. Some people think that guides have to be a serious, well-informed take on a technique or style of play. Some people are stupid. Why bother being optimal with a weapon when you can be a true Mann Co. Mercenary and run around using it like a bumbling idiot? It's way more fun if you do that.
 
-Asakawa-Haas K, et al. Partner Choice in Raven (Corvus corax) Cooperation. doi: 10.1371/journal.pone.0156962. 
+Co-Created by Clockwerk Smurf: https://www.youtube.com/user/marinefighter9 
 
-Bayern, A.M.P.v. et al. Compound tool construction by New Caledonian crows. https://doi.org/10.1038/s41598-018-33458-z
+Animation/Thumbnails by:
+Toten: https://www.youtube.com/channel/UCUXaD2C5sgwXgio0C71qtTg 
+Krunkidile: https://linktr.ee/krunkidile
+ProGamingNerd: https://www.youtube.com/@ProGamingNerdTV
+Steaky: https://www.youtube.com/@Steaky
 
-Chappell, J et al. (2004). Selection of tool diameter by New Caledonian crows Corvus moneduloides. 10.1007/s10071-003-0202-y. 
+Animation Concepts/Boards by:
+MaxiqueSt: https://www.youtube.com/c/MaxiqueSt 
 
-Düring DN et al. The songbird syrinx morphome: a three-dimensional, high-resolution, interactive morphological map of the zebra finch vocal organ. doi: 10.1186/1741-7007-11-1.
+Custom Models/Maps by:
+Alaxe: https://www.youtube.com/channel/UCZq-u6jhQrviQ905HMRvGVQ 
+Zir Zeek: https://www.youtube.com/channel/UC6y_AqeNf9OkfuLk71kc-DQ 
 
-Gruber, R. et al, New Caledonian Crows Use Mental Representations to Solve Metatool Problems, https://doi.org/10.1016/j.cub.2019.01.008.
+Graphics and Paintovers by:
+Monsieur Saboteur: https://www.youtube.com/@monsieursaboteur7282
+SerialArtistry: https://www.youtube.com/@serialartistry
 
-Holtmann B et al. Dominance relationships and coalitionary aggression against conspecifics in female carrion crows. doi: 10.1038/s41598-019-52177-7.
+Additional Voice Cast:
+Clockwerk Smurf: https://www.youtube.com/user/marinefighter9
+LazyPurple: https://www.youtube.com/c/LazyPurple 
+Toten: https://www.youtube.com/channel/UCUXaD2C5sgwXgio0C71qtTg 
 
-Hunt, G. Manufacture and use of hook-tools by New Caledonian crows. https://doi.org/10.1038/379249a0
+Additional Gameplay Provided by:
+Clockwerk Smurf: https://www.youtube.com/user/marinefighter9
+Deroplat: https://www.youtube.com/@deroplat
+JBird: https://www.youtube.com/channel/UCOaf-4kabBXZR9cAfRO4GrQ
 
-Hunt GR, Villard P. Oscillatory extraction behaviour suggests functional attributes of crows' hooked-stick tools. doi: 10.1007/s10071-023-01749-2. 
+Gameplay Skits with:
+Deroplat: https://www.youtube.com/@deroplat
+Krunkidile: https://linktr.ee/krunkidile
+SerialArtistry: https://www.youtube.com/@serialartistry
+Monsieur Saboteur: https://www.youtube.com/@monsieursaboteur7282
+Gunk: https://www.youtube.com/channel/UC82qnprliM2hRFEkorgpTBw 
+Garka23: https://www.youtube.com/c/Garka23 
+NCTWL: https://www.tumblr.com/blog/nctwl
 
-Hunt GR et al. The crafting of hook tools by wild New Caledonian crows. doi: 10.1098/rsbl.2003.0085.
+Special Thanks to:
+Uncle Dane: https://www.youtube.com/@UncleDane
+MaxiqueST: https://www.youtube.com/c/MaxiqueSt 
+The ChristoLee Show: https://www.youtube.com/c/ChristopherLeeProductions 
+Ace Creators
 
-Hunt GR et al. Parallel tool industries in New Caledonian crows. doi: 10.1098/rsbl.2006.0603. 
+And an extra special thanks to War Thunder for sponsoring this video!
 
-Hunt, G et al. (2016). A complex adaptive system may be essential for cumulative modifications in tool design. 10.2502/janip.66.2.2. 
+Here’s a pastebin of all the music tracks used in this video:
+https://pastebin.com/g7QVdEzT
 
-Jelbert SA et al. New Caledonian crows rapidly solve a collaborative problem without cooperative cognition. doi: 10.1371/journal.pone.0133253. 
-
-Jelbert SA et al. Using the Aesop's fable paradigm to investigate causal understanding of water displacement by New Caledonian crows. doi: 10.1371/journal.pone.0092895. 
-
-Klump, BC. et al. Hook tool manufacture in New Caledonian crows: behavioural variation and the influence of raw materials. https://doi.org/10.1186/s12915-015-0204-7
-
-Mack C et al. Modulation of behavioural laterality in wild New Caledonian crows (Corvus moneduloides): Vocalization, age and function. doi: 10.1080/1357650X.2022.2098969. 
-
-McCoy, D.E. et al. New Caledonian Crows Behave Optimistically after Using Tools, https://doi.org/10.1016/j.cub.2019.06.080.
-
-Müller, J.J.A. et al. Ravens remember the nature of a single reciprocal interaction sequence over 2 days and even after a month, https://doi.org/10.1016/j.anbehav.2017.04.004.
-
-Rutz C et al. The evolutionary origins and ecological context of tool use in New Caledonian crows. doi: 10.1016/j.beproc.2011.11.005. 
-
-St Clair JJ, Rutz C. New Caledonian crows attend to multiple functional properties of complex tools. doi: 10.1098/rstb.2012.0415.
-
-Swift, Kaeli et al. (2018). Occurrence and variability of tactile interactions between wild American crows and dead conspecifics. 10.1098/rstb.2017.0259. 
-
-Swift, K.N. et al, Wild American crows gather around their dead to learn about danger, https://doi.org/10.1016/j.anbehav.2015.08.021.
-
-Troscianko, J. Et al. Activity profiles and hook-tool use of New Caledonian crows recorded by bird-borne video cameras. doi:10.1098/rsbl.2015.0777
-
-Troscianko, J. et al. Extreme binocular vision and a straight bill facilitate tool use in New Caledonian crows. Nat Commun 3, 1110 (2012). https://doi.org/10.1038/ncomms2111
-
-Uomini N, et al. Extended parenting and the evolution of cognition. doi: 10.1098/rstb.2019.0495. 
-
-Weir, Alex et al. (2002). Shaping of Hooks in New Caledonian Crows. 10.1126/science.1073433. 
-
-Weir, A.A.S., et al. A New Caledonian crow (Corvus moneduloides) creatively re-designs tools by bending or unbending aluminium strips. https://doi.org/10.1007/s10071-006-0052-5
-
-Wimpenny JH et al. Cognitive processes associated with sequential tool use in New Caledonian crows. doi: 10.1371/journal.pone.0006471.</description>
-    <link>https://rr1---sn-n4v7snll.googlevideo.com</link>
+#tf2  #soundsmith  #gaming</description>
+    <link>https://rr2---sn-vgqsknld.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
