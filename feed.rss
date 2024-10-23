@@ -1,67 +1,54 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr2---sn-vgqsknld.googlevideo.com/videoplayback?expire=1729581869&amp;ei=zP4WZ9DLNq_pybgP99Xm6AQ&amp;ip=172.183.147.147&amp;id=o-AAMhmesLpha7a90cJdKe5SBBizaK5GQ9JfbMESe_uyTY&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729560268%2C&amp;mh=XR&amp;mm=31%2C26&amp;mn=sn-vgqsknld%2Csn-q4fl6nzy&amp;ms=au%2Conr&amp;mv=m&amp;mvi=2&amp;pl=15&amp;rms=au%2Cau&amp;initcwndbps=2830000&amp;bui=AXLXGFRbpjUMmWloaCv6-MrkDh26Ex3RDSx28C3LFHb2ysbzv1HuW0bdf3U58tD6vn220wG6HbiuzeKq&amp;spc=54Mbxa_R8quDm_wnDxmoMrmNAnFpPhrVXFREqfVnjAejZ2_ju26UZiF2W0bdCM4&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=kkzUYsSD9OTd5iz2lKQVxcsQ&amp;rqh=1&amp;gir=yes&amp;clen=94533915&amp;ratebypass=yes&amp;dur=1167.383&amp;lmt=1703438830114959&amp;mt=1729559847&amp;fvip=2&amp;fexp=51312688&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=ww05mUOpwM-3fQ&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRAIgDO9LZRPypYWrBm8afjTzk4M7Vlhr20yEDOwXtc6wXrMCIHp_8tIqb_OCVzO3HIg3tRMP-LS43J1yhn6oZTDYcQdh&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=ACJ0pHgwRQIhAPJhm15ryKCzAVlTPL01ws0WUhWmslL3SmWRH3BUQCbSAiBMwktGEWr6vBwtchr4j1k1_nJxhqUft21itxYzJVRTYA%3D%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr4---sn-vgqsrn6l.googlevideo.com/videoplayback?expire=1729708589&amp;ei=ze0YZ_KzKu-1ir4PvvaOqQg&amp;ip=172.183.82.212&amp;id=o-AGNaCPQkNPbrbfJguIswfbIfdJg52tINqEgnoo6e95zN&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1729686989%2C&amp;mh=Qv&amp;mm=31%2C29&amp;mn=sn-vgqsrn6l%2Csn-vgqskns7&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=4&amp;pl=15&amp;rms=au%2Cau&amp;initcwndbps=9046250&amp;bui=AXLXGFTA4ThxTWGOkEJ0eOnL92IGqYwTCm6gUeYgfE94H6jBiDpCES9xQjdUFdyTsLw8LmIhHme3An_w&amp;spc=54MbxcDm2fWQkOUB-72POKhbVH7HbRrSA7AjLRbQopqzf_kKBMJ0LF_CyDIIZjk&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=_-wV4cr0N_a3f1owUGaIHvAQ&amp;rqh=1&amp;gir=yes&amp;clen=16291139&amp;ratebypass=yes&amp;dur=314.328&amp;lmt=1703812751428160&amp;mt=1729686580&amp;fvip=1&amp;fexp=51312688%2C51326931&amp;c=MWEB&amp;sefc=1&amp;txp=5538434&amp;n=Np9JdnRpGA7Dlg&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRgIhAIrxFlOTuEIuJSuGKb_6jRlZrSzlfG5chGnKv3rjWjB7AiEA25l133wxCydIm3CD7AulsOzCtAOG5Ci3ip97bawGuXw%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=ACJ0pHgwRQIge8DoKByW2aDuirSUexUU9-02RWiowSl_6RyHSCSsmhECIQCfWNSp-g-tTj4js5wACXV9gvCQSGFXHT8JrLKKOQaC0g%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>This video was kindly sponsored by War Thunder! It’s an incredibly comprehensive vehicle combat game that’s genuinely a lot of fun. If you download it for free with my link, you also get a huge bonus pack including vehicles, boosters, and more: https://playwt.link/soundsmith
+    <description>Step inside the Pitch Meeting that led to Aquaman and the Lost Kingdom! 
 
-War Thunder is a highly detailed vehicle combat game containing over 2000 playable tanks, aircraft, and ships spanning over 100 years of development. Immerse yourself completely in dynamic battles with an unparalleled combination of realism and approachability.
+Subscribe for more Pitch Meetings: https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g
 
-SURPRISE (again)! A Mann’s Guide to the Huntsman is real. It wasn’t a bait-and-switch, this is a double feature.
 
-Some people think that gaming guides should teach the viewer how to use an item or a character in the most optimal, effective way possible. Some people think that guides have to be a serious, well-informed take on a technique or style of play. Some people are stupid. Why bother being optimal with a weapon when you can be a true Mann Co. Mercenary and run around using it like a bumbling idiot? It's way more fun if you do that.
 
-Co-Created by Clockwerk Smurf: https://www.youtube.com/user/marinefighter9 
+It’s crazy to think that in a decade, we witnessed the rise and fall of the DC Extended Universe. With occasional hits like Wonder Woman and Aquaman, accompanied by LOTS of flops like Black Adam, Shazam 2, Blue Beetle, The Flash, Suicide Squad and more… this was kind of inevitable. 
 
-Animation/Thumbnails by:
-Toten: https://www.youtube.com/channel/UCUXaD2C5sgwXgio0C71qtTg 
-Krunkidile: https://linktr.ee/krunkidile
-ProGamingNerd: https://www.youtube.com/@ProGamingNerdTV
-Steaky: https://www.youtube.com/@Steaky
 
-Animation Concepts/Boards by:
-MaxiqueSt: https://www.youtube.com/c/MaxiqueSt 
 
-Custom Models/Maps by:
-Alaxe: https://www.youtube.com/channel/UCZq-u6jhQrviQ905HMRvGVQ 
-Zir Zeek: https://www.youtube.com/channel/UC6y_AqeNf9OkfuLk71kc-DQ 
+Aquaman and the Lost Kingdom definitely raises some questions. Like did we just Ctrl-Z Aquaman’s growth from the last movie? Why is Arthur making Goofy noises? Where’s the Justice League when you need them?
 
-Graphics and Paintovers by:
-Monsieur Saboteur: https://www.youtube.com/@monsieursaboteur7282
-SerialArtistry: https://www.youtube.com/@serialartistry
 
-Additional Voice Cast:
-Clockwerk Smurf: https://www.youtube.com/user/marinefighter9
-LazyPurple: https://www.youtube.com/c/LazyPurple 
-Toten: https://www.youtube.com/channel/UCUXaD2C5sgwXgio0C71qtTg 
 
-Additional Gameplay Provided by:
-Clockwerk Smurf: https://www.youtube.com/user/marinefighter9
-Deroplat: https://www.youtube.com/@deroplat
-JBird: https://www.youtube.com/channel/UCOaf-4kabBXZR9cAfRO4GrQ
+To answer all these questions, check out the pitch meeting that led to Aquaman and the Lost Kingdom!
 
-Gameplay Skits with:
-Deroplat: https://www.youtube.com/@deroplat
-Krunkidile: https://linktr.ee/krunkidile
-SerialArtistry: https://www.youtube.com/@serialartistry
-Monsieur Saboteur: https://www.youtube.com/@monsieursaboteur7282
-Gunk: https://www.youtube.com/channel/UC82qnprliM2hRFEkorgpTBw 
-Garka23: https://www.youtube.com/c/Garka23 
-NCTWL: https://www.tumblr.com/blog/nctwl
 
-Special Thanks to:
-Uncle Dane: https://www.youtube.com/@UncleDane
-MaxiqueST: https://www.youtube.com/c/MaxiqueSt 
-The ChristoLee Show: https://www.youtube.com/c/ChristopherLeeProductions 
-Ace Creators
 
-And an extra special thanks to War Thunder for sponsoring this video!
+Check Out These Other Videos:
 
-Here’s a pastebin of all the music tracks used in this video:
-https://pastebin.com/g7QVdEzT
 
-#tf2  #soundsmith  #gaming</description>
-    <link>https://rr2---sn-vgqsknld.googlevideo.com</link>
+
+The Marvels Pitch Meeting
+
+https://www.youtube.com/watch?v=NacTCPmfDEM
+
+
+
+Loki Season 2 Pitch Meeting
+
+https://www.youtube.com/watch?v=2vTR_cQ70AI
+
+
+
+Our Social Media:
+
+https://twitter.com/screenrant
+
+https://www.facebook.com/PitchMeeting
+
+
+
+Our Website
+
+http://screenrant.com/</description>
+    <link>https://rr4---sn-vgqsrn6l.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
