@@ -1,25 +1,9 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=aWCNkD-Bm1w" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=FyJUNqBHxd8" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>City are FIFA Club World Cup champions!
-
-Watch the best of the action from City's FIFA Club World Cup final victory over Fluminense in Jeddah.
-
-SUBSCRIBE! http://www.youtube.com/subscription_center?add_user=mancity
-
-http://www.mancity.com
-http://www.facebook.com/mancity
-http://www.twitter.com/mancity
-http://www.instagram.com/mancity
-https://www.tiktok.com/@mancity
-
-About the Official Man City YouTube Channel:
-
-Here you will find all the latest videos from Manchester City, including, all Premier League, Champions League, FA Cup and League Cup goals, highlights, behind-the-scenes footage, training and much more.
-
-Get closer to the likes of Jack Grealish, Bunny Shaw, Kevin De Bruyne, Lauren Hemp, Erling Haaland, Ellie Roebuck, Phil Foden, Esme Morgan and the rest of Pep Guardiola &amp; Gareth Taylor's teams!</description>
+    <description>I enjoyed filming this very much</description>
     <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
