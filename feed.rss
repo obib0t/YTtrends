@@ -1,9 +1,16 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=FyJUNqBHxd8" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=Dl0McRU95js" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>I enjoyed filming this very much</description>
+    <description>Three family members were found dead in their Massachusetts home Thursday night in a deadly incident of domestic violence, according to the district attorney’s office.
+
+Stay in the know with WPRI 12 News. Local news, weather, sports, and award winning investigative journalism coverage you can count on on this YouTube channel, TV, mobile app, our social channels and WPRI.com.
+
+https://wpri.com
+https://www.facebook.com/WPRI12/
+https://twitter.com/wpri12
+https://www.instagram.com/wpri12</description>
     <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
