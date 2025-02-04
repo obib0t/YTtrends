@@ -1,9 +1,22 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr2---sn-p5qlsn6l.googlevideo.com/videoplayback?expire=1738542209&amp;ei=IbifZ8yfFO7CkucPzfyeiQg&amp;ip=172.200.180.253&amp;id=o-AKcG_DEBsEQZT-TU1GqO2Zjtm349ogy4BEqqlL2v2XT2&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1738520609%2C&amp;mh=6y&amp;mm=31%2C26&amp;mn=sn-p5qlsn6l%2Csn-vgqsknzy&amp;ms=au%2Conr&amp;mv=u&amp;mvi=2&amp;pl=20&amp;rms=au%2Cau&amp;bui=AY2Et-NwcWfzzbXu0RgWU6K76oOQdPcVwawofXgHGlbN2EZd_CA1TLwqLrwwMyaCqGNGfxkclsQewzK4&amp;spc=9kzgDQedaEWe3cZIY4z8afBb_vuPDqzWmmO5zvyhRPhwO3AE8EPNtmIhr7o2&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=PI1Bfjteo0SHeCzSMvOduTMQ&amp;rqh=1&amp;gir=yes&amp;clen=168399779&amp;ratebypass=yes&amp;dur=2040.105&amp;lmt=1726259012840355&amp;mt=1738519197&amp;fvip=2&amp;lmw=1&amp;fexp=51326932%2C51371294&amp;c=TVHTML5&amp;sefc=1&amp;txp=4538434&amp;n=pwZX4mOLND4dsg&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRAIgWN2Lf7XgXv8YwJOH2RwFhSKr09PrrqG2tj3NP_mj9jMCIHDmUtowxQxwnVKYd-K4hTWK-LtBsja9aKoS0h2N3mN6&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=AGluJ3MwRQIgDIg96cXVLx4IDf6lMZywsoXUwxmC2luT0ejtH6CMJNYCIQCid0-PVIVAVIZIBvJtoGGSYuQSA5P0cuLsZulOGllYlg%3D%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=2IE9igiIXtY" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <link>https://rr2---sn-p5qlsn6l.googlevideo.com</link>
+    <description>Watch live local and primetime games, NFL RedZone, and NFL Network on Plus.NFL.com
+
+Check out our other channels:
+NFL Mundo https://www.youtube.com/mundonfl
+NFL Brasil https://www.youtube.com/c/NFLBrasilOficial
+NFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA 
+NFL Fantasy Football https://www.youtube.com/nflfantasyfootball
+NFL Play Football https://www.youtube.com/playfootball
+NFL Throwback http://www.youtube.com/nflvault
+NFL Films http://www.youtube.com/nflfilms
+NFL Network http://www.youtube.com/nflnetwork
+
+#NFL #Football #AmericanFootball</description>
+    <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
