@@ -1,49 +1,9 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr3---sn-5ualdnle.googlevideo.com/videoplayback?expire=1750837636&amp;ei=JFVbaM-3JNWU2_gP9pn2iAY&amp;ip=20.25.193.10&amp;id=o-AJVtTa2HsLpP5p_BzRoTyXU4FRE5bzIWhQIi5pzvUBeP&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1750816036%2C&amp;mh=3j&amp;mm=31%2C26&amp;mn=sn-5ualdnle%2Csn-vgqsrn66&amp;ms=au%2Conr&amp;mv=m&amp;mvi=3&amp;pl=18&amp;rms=au%2Cau&amp;initcwndbps=3036250&amp;bui=AY1jyLMt7L2X5mKJ5TD_qwvX1S6db2KE9I9Znzez8QWJ69vbs0D674mXOOUyegw_EeUMLqgdwNVH27Me&amp;spc=l3OVKeJ-hKL-UZWFmf44fXQMH3Hn0T2S1mGcVm9WxYWgTp_d-tcd8gH2KgbbgPW-EcCi5wMHdWT4F0xFM1xGt5Yb&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=CLrIYrUTj6u6DVL4vLMYzEIQ&amp;rqh=1&amp;gir=yes&amp;clen=144956251&amp;ratebypass=yes&amp;dur=2060.956&amp;lmt=1739068453794617&amp;mt=1750815670&amp;fvip=5&amp;fexp=51355912%2C51466643%2C51466698&amp;c=WEB&amp;sefc=1&amp;txp=5538534&amp;n=u84yh8rPP-_8Ng&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIhAPL9dKXeO11WhWNfd066E4kBoy1ZwhaeSiDJJDbzIpKFAiAKdUenaNz0aOoZykGYbxRzpvK8xwk8iUr1ezzpWhcdag%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=APaTxxMwRgIhAJ_vP5bpT-yDQCZ_GcD_kZzx-JahsXBtwDh0ZFUsEMffAiEAobe2rYlp-WiMXHmedCEMdhW6Hsq1FTRW8BRVcrPv5XM%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr5---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1751010628&amp;ei=5PhdaL_sGKbCkucP9MnHyA4&amp;ip=20.57.46.47&amp;id=o-AGWNkWnc2vf4fDWhEeoZEkx2HdgAsHBOdQYKXlGZRvb1&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1750989028%2C&amp;mh=HS&amp;mm=31%2C26&amp;mn=sn-p5qs7nzk%2Csn-vgqsrnll&amp;ms=au%2Conr&amp;mv=u&amp;mvi=5&amp;pl=16&amp;rms=au%2Cau&amp;ctier=L&amp;bui=AY1jyLOouxM1SDUugqDydN5Fmm4rjBFHI_iszCi3bjp3T2OjFZMSG-HXXcDq1-83DJyKDtGIMGGWI_9b&amp;spc=l3OVKV7UwjoULMaCnDFF7yXpBAsCjLSnnH04BzPhUcBJDjjYH2OTWUlnane-cymmYQ&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=NmnFL2EJ2CIZBRU6cIaMQV8Q&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=198.066&amp;lmt=1745651790511994&amp;mt=1750987735&amp;fvip=3&amp;lmw=1&amp;c=TVHTML5&amp;sefc=1&amp;txp=5538534&amp;n=GmgDyXKoF-hxnQ&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cctier%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRAIgUF8-CNM_zODGS0cxYBWPsw4eu3zNleLxfciTUZvgLTsCICkBI4Meh4b0LDeXFs86U2DTOCtXh5cp-1xYRdULaA-w&amp;sig=AJfQdSswRQIhAOH4gxhr-6WhTB3e_ovpsVluFA6I-o2u6537iKHxr4ccAiBCHgTTNPbYkoK27VdaN6Bl54temYLH7SMLC8mU7eOPHA%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>I created my dream tank, a 1000 gallon cloud rainforest vivarium, and constructing it has been quite a journey. It is fully stocked with tropical plants, automated climate control, and even some creatures that managed to sneak in through the terrarium decor. However, the goal of the vivarium experiment was to recreate and study a rainforest ecosystem so to complete the project, I needed to add more animals. Little did I know, doing so would amp up the biological action within the vivarium in a way that I could never have predicted. Hope you enjoy Part 6 of my ecosystem vivarium series. Ant love forever! This video was shot in 4K Ultra HD resolution.
-
-Join the Great AC SENATE to get access to new perks/voting powers on this channel:
-https://www.youtube.com/channel/UCONd1SNf3_QqjzjCVsURNuA/join
-
-Click here to SUBSCRIBE: https://goo.gl/tlCQJZ
-
-Directed/Written/DOP/Edited by AntsCanada
-Executive Producer RJ Garcia
-
-Special thanks to nature photographer and biologist Alex Wild for allowing his photos to be used in our videos. Check out his amazing nature photography and order some prints: http://www.alexanderwild.com
-
-If you're new to the channel, catch up on your &quot;AntsCanada Lore&quot; with this playlist of the complete history of the ants of this channel: https://goo.gl/hVFxc2
-
-Visit us at http://www.antscanada.com 
-
-A brand new video is uploaded on this channel every Saturday at 8AM EST (with frequent bonus videos) so be sure to SUBSCRIBE to the channel to catch every ant video we release! Thank you for the support.
-
-Get our new AC Hybrid Nest 2.0 ant farm or
-'All You Need' Hybrid 2.0 Gear Pack (complete kit): https://www.antscanada.com/product-category/hybrid-nest-series/
-
-
-▶▶▶We've got new Ant T-shirts! Check them out here: https://goo.gl/PjnB7t
-
-▶▶▶Got a question about ants or AntsCanada? Visit our website FAQ: https://goo.gl/mJPEqn
-
-▶▶▶Want an ant farm? Check out our ant shop. We ship worldwide: http://goo.gl/I4l7Ho 
-
-▶▶▶Need to buy an ant colony for your ant farm, or do you have ant colonies to sell/give away? Find out more about our GAN Project: http://goo.gl/jzo9Lc
-
-Join us at the new AntsCanada Ant Forum: http://forum.antscanada.com
-
-▶AntsCanada Official Website http://www.antscanada.com
-▶Like us on http://facebook.com/antscanada 
-▶Follow us on http://twitter.com/antscanada
-▶Follow us on http://www.instagram.com/antscanada
-
-Email us at info@antscanada.com for any questions or inquiries.
-
-About AntsCanada.com: We believe ants are the most amazing creatures on the planet, and every new discovery about their micro world gives us some profound insights into the world around us and ourselves. Bringing the ant farm and love of ant keeping to a whole new level, we are dedicated to show the world the joys of keeping big and healthy pet ant colonies. Shipping worldwide since 2009, we are innovators of ant keeping products for ant lovers and museums alike.</description>
-    <link>https://rr3---sn-5ualdnle.googlevideo.com</link>
+    <link>https://rr5---sn-p5qs7nzk.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
