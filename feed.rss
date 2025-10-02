@@ -1,34 +1,22 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://rr3---sn-p5qlsn76.googlevideo.com/videoplayback?expire=1758957890&amp;ei=4TzXaK68OoeIkucP5Jrq8AM&amp;ip=68.154.54.36&amp;id=o-AGI5sxsEe9E2x4tMKQYZdWLFQ2rMSGcvbiGSlDJpU60V&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;cps=368&amp;met=1758936289%2C&amp;mh=6Y&amp;mm=31%2C26&amp;mn=sn-p5qlsn76%2Csn-5ualdnls&amp;ms=au%2Conr&amp;mv=u&amp;mvi=3&amp;pl=19&amp;rms=au%2Cau&amp;bui=ATw7iSXKvEyKq3kJKrs0MKwttSub9IOQ9qIunIkwCLvbkTyKb89JwRJ90MX8xj8DE4FoIAExgGDHgQZL&amp;spc=hcYD5YfOecsB2EoMSYHF1OExEJEverVI9aTfezBC3iNdbTlIcQmolAOSFixVVpf4FSBJQumHCaUQno3OD_XR_OAP&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=6Jp7qnEC9IODSvokDRUqgyQQ&amp;rqh=1&amp;gir=yes&amp;clen=118592129&amp;ratebypass=yes&amp;dur=1627.556&amp;lmt=1758455290345790&amp;mt=1758935203&amp;fvip=4&amp;fexp=51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650&amp;c=WEB&amp;sefc=1&amp;txp=4538534&amp;n=8xDf3mjQws6RJ7t&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIgZ05i5g0YfrmPptk9NporDxoTxZ_mb8ZWB5_RdOZ4b0UCIQCPTyCp4g2ygC9O0X5a2x5Kh8zt7aLibtf7P2kIkQHx7w%3D%3D&amp;lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRgIhAL1bV3xdjcl0BMwyB0ZZwGfuMracKPqkkNj3Sx3Zf70NAiEA3RIBmi6O103c_RlhK1UsrnqJKC0uY5f_8Xk0yL1bxaE%3D" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr4---sn-vgqsknzy.googlevideo.com/videoplayback?expire=1759390054&amp;ei=BtXdaLmyGtmR2_gP9-3y2A4&amp;ip=64.236.145.83&amp;id=o-APDDPVRHYQhT_6rSdEhDnT2DuP4_4qvZ0sNlJ0OoKNcP&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;cps=471&amp;met=1759368454%2C&amp;mh=Bx&amp;mm=31%2C26&amp;mn=sn-vgqsknzy%2Csn-q4fl6nlz&amp;ms=au%2Conr&amp;mv=u&amp;mvi=4&amp;pl=17&amp;rms=au%2Cau&amp;bui=ATw7iSUhTmSEwAAyh3m6A5A88NCy3pKl9PFuWbOVYAB_qPl5ThDcwad5-9SLZAHc2oq_mJoL42YQTMhs&amp;spc=hcYD5XpEO1BPeSws5ZwRrxlThI8oAcHcbkjhvBHKT7bOQ9GkgzYuthAisjuWlTHXHheUDsJxCKl1FAra8c8tKKWX&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=AGMFBe4Dsq2XRzExh-XRJmAQ&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=1934.616&amp;lmt=1730540865975932&amp;mt=1759367799&amp;fvip=3&amp;fexp=51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650&amp;c=WEB&amp;sefc=1&amp;txp=5538434&amp;n=guZhj5_lEKg9TN&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRAIgHt6eapT-N9Bfo1e8IlKxm6DHBXWKfCCUQ058cMGLNMACIF2askB86PfzNhfp8RpnzI3zxNCLXSx_yzBGkzvULIlX&amp;lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRQIgaPC5HqcMqROG1_BhTS-MopB6Np7eHpYMc15qvFkkovoCIQDZpKEjiclwKI1MpH0oEWh88QD7F-8uvjk-npPMMPfY8w%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>This video got crazier the longer we kept filming lol 
-Don’t miss your chance to get on MrBeast’s gift list! Submit your wish in the Shop App: 
-https://go.shop.app/gift #ad #ShopAppPartner
+    <description>I am in the Taiga forests of Alaska, winter camping with no tent and no sleeping bag. I am building a bushcraft survival shelter and hot tent and camping for 3 days. 
 
-New Merch - https://mrbeast.store
+Check out my bushcraft build projects (horn mug and griddle video) 
+https://youtu.be/5hlettYK0s8
 
-Check out Viewstats! - https://www.viewstats.com/
+Outdoor Boys on FACEBOOK
+https://www.facebook.com/TeamOutdoorBoys
 
-SUBSCRIBE OR I TAKE YOUR DOG
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+Outdoor Boys on INSTAGRAM
+@outdoorboyschannel
 
-For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
-
-Music Provided by https://www.extrememusic.com
-
-----------------------------------------------------------------
-follow all of these or i will kick you
-• Facebook - https://www.facebook.com/MrBeast/
-• Twitter - https://twitter.com/MrBeast
-•  Instagram - https://www.instagram.com/mrbeast
-•  Im Hiring! - https://www.mrbeastjobs.com/
---------------------------------------------------------------------</description>
-    <link>https://rr3---sn-p5qlsn76.googlevideo.com</link>
+BUY OUTDOOR BOYS T-SHIRTS
+ http://shop.spreadshirt.com/catsandcarp/</description>
+    <link>https://rr4---sn-vgqsknzy.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
