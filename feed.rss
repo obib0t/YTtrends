@@ -1,248 +1,63 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765499678/ei/vg47afWgGOXW0_wP65ac-As/ip/20.94.54.85/id/8d54612caa212437/itag/96/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D4544942%3Bdur%3D280.775%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1730688931614176/sgovp/clen%3D26566174%3Bdur%3D280.708%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1730690337775373/rqh/1/hls_chunk_host/rr2---sn-p5qddn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1765478078,/mh/iV/mm/31,26/mn/sn-p5qddn76,sn-5uaezn6z/ms/au,onr/mv/m/mvi/2/pl/20/rms/au,au/initcwndbps/4242500/bui/AYUSA3DVJp52zU0k6r9JDtWyCKB-DvnXAzc-t-iG8qRb-RJ4momlYdElejuQKp7YrP_9evgiWxzCdzHK/spc/wH4Qq_BKbhNId_EOmN4nkhs-SGM_0yXkatrBtkWAFoO-2DrrQ1zyQ65AtUmQKtaFr1UPljpaE17pBKsTCR2sAoMI/vprv/1/playlist_type/CLEAN/dover/11/txp/5532434/mt/1765477752/fvip/4/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANL0kRbAwmz7ohq-_a1p6yWttdLoC1pW0VnpogKqQ1SFAiEAryv1vFcoCokSOc9MGy_IJAxY_j-bsvWAZQiNdobEw6k%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIgM43V847edOjMlECh3XULzX3XPJsCGfJDucow7oUsQ_ECIQDhzeUHYrpsiKt6tIV7fsqOOJKGlWsnGAUL8GDwbqn_2A%3D%3D/playlist/index.m3u8" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr5---sn-vgqsrnlz.googlevideo.com/videoplayback?expire=1765565316&amp;ei=Iw88afGLOMbvir4P8ejN2QY&amp;ip=64.236.143.209&amp;id=o-AJegj6MHH-uyFblQadcney23m-oug_D0GP2Jm1UdjPUZ&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;cps=47&amp;met=1765543715%2C&amp;mh=oS&amp;mm=31%2C29&amp;mn=sn-vgqsrnlz%2Csn-vgqsknld&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=5&amp;pl=16&amp;rms=au%2Cau&amp;initcwndbps=3416250&amp;bui=AYUSA3BXu0dBxencisH7SS_fa0RCS-dEacQeNC0Mf1FXR2xHnRTbnvmgUzK-ozRf8BUejbBA-sDhqshQ&amp;spc=wH4Qq-b3070u-23sp0kX&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=2815.001&amp;lmt=1746478900997765&amp;mt=1765543266&amp;fvip=3&amp;fexp=51552689%2C51565115%2C51565681%2C51580968&amp;c=ANDROID&amp;txp=4538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIhALbP4jAy4zDYObVfxtpJwwprCJV696YbtBAO4E5VPEaMAiBMPDBBh75sxHEV2oLRsUheCsp53LzcYgju7Ow5FUYDbg%3D%3D&amp;lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=APaTxxMwRQIgX8Wo5O-0Bov0t0ZW5p1G5I2hTs83e1EyRWgLvYaMQ-cCIQDDh6r2sqA8DKBeeRlTrA50uiiEgvXEj5oftfmlNNTiRg%3D%3D" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>Willy Wonka has the best drip of any candy maker, but just how has the whimsical confectioner evolved? Starting from his iconic 1971 film, let's find out now…animated!
-
-#willywonka  #wonka  #animation 
-
------------------------
-
-Resources for this animation:
-
-Huge shout to @josephbradley6967 for his breakdowns on the Willy Wonka franchise, check him out here: https://www.youtube.com/@josephbradley6967
-Plus these articles:
-http://collectingcandy.com/wordpress/?p=12275
-http://collectingcandy.com/wordpress/?p=5625
-As well as watching the movies, commercials, musicals, and cartoons!
-
-----------------------
-
-Support the channel on Patreon:
- 
-https://www.patreon.com/tellitanimated
-Where you get:
-Illustrations and info-graphics!
-Shoutouts on social media!
-Your name in the credits!
-Early access to the animations!
-Behind-the-scenes screenshots!
-Full access to the model designs I use in Adobe Animate!
-
---------------------
-
-Speed Art and Other Random Stuff Channel Here: 
-https://www.youtube.com/channel/UCunVjALDxs5cYJkf5c0cnBw
-
----------------------
-
-Follow on Social Media:
-https://www.instagram.com/tellitanimated/
-https://twitter.com/tellitanimated
-https://www.tiktok.com/@tellitanimated?
-
---------------------
-
-Leave a thumbs up if you liked the video and subscribe for more interesting and animated content, cheers! 
-
---------------------
-
-Credits:
-
-Script, Design and Animation: 
-Aaron Lecours
-
-Script Revisions / Additional Assistance:
-Gal Rigg-Anafi
-
-Narration: 
-Stanton Nichols 
-https://stanton.actor
-
-Music Used:
-
-Opening Stinger: 
-Enuff Para Mi - Jingle Punks
-
-Video:
-Fun Kids Happy Music by DailyWaves
-(Code: 30857380 from AudioJungle)
-
-End Slate: 
-Disco Cat - Komiku 
-
-Sounds Used With Credit (From Freesounds): 
-https://freesound.org/
-171027__eelke__glass-bangs
-257780__xtrgamr__man-oof
-204701__nanakisan__evil-laugh-4
-253524__nanakisan__evil-laugh-2
-188873__plingativator__slide-whistle
-536085__eminyildirim__leather-bow-stretch
-257780__xtrgamr__man-oof
-363544__skyraevoicing__inhale-gasp-scared
-519627__skyernaklea__tv-switch-off-tv-turn-off-tv-shutdown
-536085__eminyildirim__leather-bow-stretch
-587923__jonnyrockey1__haunted-vortex
-591701__hiltonproductions__evil-laugh-no-fx
-
-
-------------More Animations------------
-
-
-Horror:
-
-
-Freddy Fazbear / FNaF
-https://youtu.be/q-nub_IFiXg
-
-Ash Williams / The Evil Dead
-https://youtu.be/MfuEWpjWBzQ
-
-Top 10 Horror Dolls
-https://youtu.be/siss0ffhe7M
-
-Krampus
-https://youtu.be/LyxSsIoXNc8
-
-Michael Myers ReAnimated:
-https://youtu.be/zE4yzfTUhfs
-
-Gremlins:
-https://youtu.be/TAbum-YGQ08
-
-Candyman:
-https://youtu.be/wQvQll78sw4
-
-Jigsaw / SAW Franchise
-https://youtu.be/t252pYl572Q
-
-Dracula
-https://youtu.be/1SbhiVW2zWo
-
-Killer Klowns From Outer Space
-https://youtu.be/Pv80Ncn7j18
-
-Leprechaun
-https://youtu.be/lQmvzNIDGQo
-
-Pennywise
-https://youtu.be/JqFzflBD5e0
-
-Ghostface
-https://youtu.be/PFuDlpO-zVU
-
-Chucky
-https://youtu.be/rdnxvPE5n3I
-
-Michael Myers
-https://youtu.be/pyi3o5MURQ0
-
-Leatherface
-https://youtu.be/8Cjo4ly6sik
-
-Freddy Krueger
-https://youtu.be/y443rh5HgsY
-
-Jason Voorhees
-https://youtu.be/8oZ9ExQ--Rs
-
-
-Sci-Fi:
-
-
-TMNT in Live-Action
-https://youtu.be/-3XgJ6Y5oL0
-
-Jurassic Park 1993 (Movie Dinosaurs vs. Real-Life)
-https://youtu.be/p5w0mvCfOa4
-
-Boba Fett:
-https://youtu.be/Oxyo2sK_jVk
-
-King Kong
-https://youtu.be/kmTELp7hfN4
-
-RoboCop
-https://youtu.be/FxlQEJECcpc
-
-Emperor Palpatine:
-https://youtu.be/v55Cq4Ustqw
-
-Darth Vader
-https://youtu.be/u3Yljar6p4A
-
-Godzilla
-https://youtu.be/3OGH6PlOiAw
-
-Alien
-https://youtu.be/TiEmodQqvmM
-
-Predator
-https://youtu.be/wA3c9jAHkgw
-
-Terminator
-https://youtu.be/xV0SMOVrUGk
-
-
-Superheros and Super Villains:
-
-
-The Flash
-https://youtu.be/XLLG7OfEbEU
-
-Super Mario
-https://youtu.be/XOGKvVw0oMU
-
-Ant-Man
-https://youtu.be/pFaJCjWqqOw
-
-Thor
-https://youtu.be/RjUB-4LGbPg
-
-Doctor Strange
-https://youtu.be/LLjaWAGWJGc
-
-Green Goblin
-https://youtu.be/X_v7Mofo6rQ
-
-Riddler
-https://youtu.be/9ffe7aY0f10
-
-Venom
-https://youtu.be/uv4-Mz4zH1Q
-
-Harley Quinn
-https://youtu.be/_SQS_OYMK-E
-
-Wonder Woman:
-https://youtu.be/AlhELuRMJ_s
-
-Iron Man
-https://youtu.be/FutULULDZqM
-
-Captain America
-https://youtu.be/IKP_B2kOh9E
-
-Hulk
-https://youtu.be/Pb9MPmx4uYE
-
-Spider-Man
-https://youtu.be/3hJeti-f0H8
-
-Joker
-https://youtu.be/-mkZ0ISCe9M
-
-Batman
-https://youtu.be/01GzNk-h3Dg
-
-
-
---------------------
-
-And that's the Xmas video for this year! Well...Willy Wonka makes candy and sings sometimes, that's Christmas traits, right? Haha. Either way, happy holidays to everyone, especially those who read until the end of these descriptions XD</description>
-    <link>https://manifest.googlevideo.com</link>
+    <description>🍗: Order food NOW at: https://www.eatsides.com/
+🎥: Access exclusive content at: https://www.sideplus.com/
+🍹: XIX Vodka: https://www.xixvodka.com/
+👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻
+👕: Sidemen Clothing: https://www.sidemenclothing.com
+📸: Sidemen Instagram: http://www.instagram.com/Sidemen
+🐤: Sidemen Twitter: http://www.twitter.com/Sidemen
+
+▶️ SIDEMEN ◀️
+
+🔵 JOSH (Zerkaa)
+● http://www.youtube.com/Zerkaa
+● http://www.youtube.com/ZerkaaPlays
+● http://www.instagram.com/Zerkaa
+● http://www.twitter.com/ZerkaaHD
+
+🔴 HARRY (W2S)
+● http://www.youtube.com/W2S
+● http://www.youtube.com/W2SPlays
+● http://www.instagram.com/Wroetoshaw
+● http://www.twitter.com/Wroetoshaw
+
+🔵 VIK (Vikkstar123)
+● http://www.youtube.com/Vikkstar123
+● http://www.youtube.com/Vikkstar123HD
+● http://www.youtube.com/VikkstarPlays
+● http://www.instagram.com/Vikkstagram
+● http://www.twitter.com/Vikkstar123
+
+🔴 JJ (KSI)
+● http://www.youtube.com/KSI
+● http://www.youtube.com/KSIOlajidebtHD
+● http://www.instagram.com/KSI
+● http://www.twitter.com/KSIOlajidebt
+
+🔵 TOBI (Tobjizzle)
+● http://www.youtube.com/TBJZL
+● http://www.youtube.com/Editingaming
+● http://www.instagram.com/Tobjizzle
+● http://www.twitter.com/Tobjizzle
+
+🔴 ETHAN (Behzinga)
+● http://www.youtube.com/Behzinga
+● http://www.youtube.com/Beh2inga
+● http://www.instagram.com/Behzingagram
+● http://www.twitter.com/Behzinga
+
+🔵 SIMON (Miniminter)
+● http://www.youtube.com/Miniminter
+● http://www.youtube.com/MM7Games
+● http://www.instagram.com/Miniminter
+● http://www.twitter.com/Miniminter
+
+Edited by @chipfat /// https://twitter.com/CHIPFAT_</description>
+    <link>https://rr5---sn-vgqsrnlz.googlevideo.com</link>
     <generator>json2rss</generator>
   </channel>
 </rss>
