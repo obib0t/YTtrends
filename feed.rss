@@ -1,30 +1,59 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="#" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1767703060/ei/tK1caeLFCfCX2_gP8vXVoAo/ip/64.236.176.192/id/3c0aca3e28980aa0/itag/96/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D8755385%3Bdur%3D540.932%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1752102118025335%3Bxtags%3Dacont%3Doriginal:lang%3Den/sgovp/clen%3D176727036%3Bdur%3D540.873%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1752813597334653/rqh/1/hls_chunk_host/rr3---sn-vgqskn67.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/59/met/1767681460,/mh/Tu/mm/31,29/mn/sn-vgqskn67,sn-vgqsrnld/ms/au,rdu/mv/m/mvi/3/pl/16/rms/au,au/initcwndbps/13326250/bui/AYUSA3A8tGhk_SZv3XdzMqdjaqHhg1LSNX7cv8cF9CaKmcRSzZehzyPZaW_TkTi4zQAA7JXrR8DEtqbM/spc/wH4Qq3mFArqZWxPOmhyhDb0_f3nYFXPVXZgp-LtWjPKGKymB-fkwpVeQ2II60Rv-K9BzyBnnxvgDtbK_9UBRLF1m/vprv/1/ns/uzjhZVWSdacPhY6ZWawkCnMR/playlist_type/CLEAN/dover/11/txp/4532534/mt/1767681168/fvip/3/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/n/IDhlTTu9LU-ODNP3M0/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIgEAsY0fT2C9YIgwdyVi3XGTHvcSP96zQCLdRoGqEeOl0CIQDDb8QpkvwqhE53HgrgBGQPhBcaESlWdx-JDLhQjfLfNw%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAP_1Y2zKjyZJoh_iRe_doekhGRWUn693BVOQ5R9Q7CYcAiEAxfhFuGAZnPxbu1X9OYpTbsDOPja_IskE2OJzri8GOBw%3D/playlist/index.m3u8" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <link>#</link>
+    <description>This video is brought to you by YOU.  We accomplished so much this year, both on the channel and off, but none of this could happen without you. Your views fund the work we do, your support energizes us when we feel depleted, and your enthusiasm inspires us to to work as hard as we can every day to earn your continued loyalty. We are nothing without you.
+
+2023 exceeded every expectation we had. But wait until you see what we have planned for 2024.
+
+Mega W goes to our incredible partners around the world:
+
+Baphumele
+https://baphumelele.org.za/
+
+Barefoot No More
+https://www.barefootnomore.com/
+
+Hopi Nation
+https://hopirelief.org/
+
+Exceed Worldwide
+https://www.exceed-worldwide.org/
+
+GivePower
+https://givepower.org/
+
+Dora
+https://www.tiktok.com/@doramoononyambe
+
+Cure International
+https://cure.org/
+
+The Man That Rescues Dogs
+https://tmtrd.org/
+https://www.tiktok.com/@tmtrdorg
+
+Sharing Excess
+https://www.sharingexcess.com/
+https://www.instagram.com/sharingexcess/
+
+CDVTA
+https://www.cdvta.org/
+
+Follow us so we can help more people together:
+Instagram: https://www.instagram.com/beastphilanthropy/
+Website: https://www.beastphilanthropy.org/campaign/rebuilding-baphumelele
+Tiktok: https://www.tiktok.com/@beastphilanthropy 
+Twitter: https://twitter.com/BeastPhilanthr 
+Facebook: ​​https://www.facebook.com/profile.php?id=100084586484118
+Spotify: https://open.spotify.com/artist/400iD3n8DqB8wGqxDv6pSB
+
+Beast Philanthropy Video Disclaimer: This video was produced by Beast Philanthropy Productions, LLC, a North Carolina limited liability company. Any revenue generated for Beast Philanthropy Productions, LLC from this video will be donated to MrCharity, Inc. dba Beast Philanthropy, a North Carolina 501(c)(3) nonprofit corporation. #sponsored
+
+Filmed and Edited by: Dan Mace ( @DanMace   )</description>
+    <link>https://manifest.googlevideo.com</link>
     <generator>json2rss</generator>
-    <item>
-      <guid>https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1767639123/ei/87Nbab-WHKGKr9gPz-LiOQ/ip/172.208.126.99/id/1556a1023a79ff23/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D10295154%3Bdur%3D636.087%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1746014083435368/sgovp/clen%3D91994708%3Bdur%3D636.035%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1746018031014982/rqh/1/hls_chunk_host/rr2---sn-p5qlsndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1767617523,/mh/nw/mm/31,26/mn/sn-p5qlsndk,sn-vgqsknzk/ms/au,onr/mv/u/mvi/2/pl/18/rms/au,au/bui/AYUSA3D-DrMADpJTcayV-dkRU7aaPUnYAB2yM-OeFUYQbSzCiryEu2NePmHL7Hxa9rFEzPQtGNh9PEFw/spc/wH4Qq9Zo8DvL5Spty3ulGUWVSX1pMYrkcvCuWAuH3mgdsN4WwhNF0WBdXi7h-5HDSaiedtJ6SMZQejGaKP95JP8G/vprv/1/ns/cB0V5-YgCE4t4Bnd1O3Ts-IR/playlist_type/CLEAN/dover/11/txp/5535534/mt/1767615894/fvip/1/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/n/78XkRxjoCnx51SRsGf/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRgIhAIABuC6FEGZPGGBejF0saC5lgdChCkRzOLSIjQxcjGIUAiEAhKimV1EjCbhzVoSXGg48XBodN1Tc5Z3gezg6R7AHwyM%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKj3ZO9UvCZFhAUDtmm0Ks3BJumNbl34Njvdwb4QTDqVAiB_Po3aC-CcM0UavQjqePjTZDioChZEqlQqkyyVp5XUkg%3D%3D/playlist/index.m3u8</guid>
-      <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1767639123/ei/87Nbab-WHKGKr9gPz-LiOQ/ip/172.208.126.99/id/1556a1023a79ff23/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D10295154%3Bdur%3D636.087%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1746014083435368/sgovp/clen%3D91994708%3Bdur%3D636.035%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1746018031014982/rqh/1/hls_chunk_host/rr2---sn-p5qlsndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1767617523,/mh/nw/mm/31,26/mn/sn-p5qlsndk,sn-vgqsknzk/ms/au,onr/mv/u/mvi/2/pl/18/rms/au,au/bui/AYUSA3D-DrMADpJTcayV-dkRU7aaPUnYAB2yM-OeFUYQbSzCiryEu2NePmHL7Hxa9rFEzPQtGNh9PEFw/spc/wH4Qq9Zo8DvL5Spty3ulGUWVSX1pMYrkcvCuWAuH3mgdsN4WwhNF0WBdXi7h-5HDSaiedtJ6SMZQejGaKP95JP8G/vprv/1/ns/cB0V5-YgCE4t4Bnd1O3Ts-IR/playlist_type/CLEAN/dover/11/txp/5535534/mt/1767615894/fvip/1/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/n/78XkRxjoCnx51SRsGf/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRgIhAIABuC6FEGZPGGBejF0saC5lgdChCkRzOLSIjQxcjGIUAiEAhKimV1EjCbhzVoSXGg48XBodN1Tc5Z3gezg6R7AHwyM%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKj3ZO9UvCZFhAUDtmm0Ks3BJumNbl34Njvdwb4QTDqVAiB_Po3aC-CcM0UavQjqePjTZDioChZEqlQqkyyVp5XUkg%3D%3D/playlist/index.m3u8</link>
-      <title>No. 15 Louisville Cardinals vs. USC Trojans Highlights | CFB on FOX</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/FVahAjp5_yM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTpT-i1b46fu2vl0HnfHPHqcc68w"/>Check out the best moments from the Holiday Bowl as the No. 15 Louisville Cardinals took on the USC Trojans.<br/><br/>#CFBonFOX #CFB #USCTrojans <br/><br/>SUBSCRIBE to get the latest CFB on FOX content: <a href="https://foxs.pt/SubscribeCFBonFOX" target="_blank">https://foxs.pt/SubscribeCFBonFOX</a><br/>The all-new FOX Sports App, built for the modern sports fan: <a href="https://tinyurl.com/y4uouolb" target="_blank">https://tinyurl.com/y4uouolb</a><br/><br/>►FOX Sports YouTube Channel: <a href="http://foxs.pt/SubscribeFOXSPORTS" target="_blank">http://foxs.pt/SubscribeFOXSPORTS</a><br/>►Subscribe to the Bear Bets podcast: <a href="https://bit.ly/BearBets" target="_blank">https://bit.ly/BearBets</a> <br/>►PBC ON FOX’s YouTube Channel: <a href="https://foxs.pt/SubscribePBCONFOX" target="_blank">https://foxs.pt/SubscribePBCONFOX</a><br/>►WWE ON FOX YouTube channel: <a href="https://foxs.pt/SubscribeWWEONFOX" target="_blank">https://foxs.pt/SubscribeWWEONFOX</a><br/>►FOX Soccer’s YouTube channel: <a href="https://foxs.pt/SubscribeFOXSOCCER" target="_blank">https://foxs.pt/SubscribeFOXSOCCER</a><br/>►NASCAR ON FOX YouTube channel: <a href="https://foxs.pt/SubscribeNASCARonFOX" target="_blank">https://foxs.pt/SubscribeNASCARonFOX</a><br/> <br/>See more from CFB on FOX: <a href="https://foxs.pt/CFBONFOXFoxSports" target="_blank">https://foxs.pt/CFBONFOXFoxSports</a><br/>Like CFB on FOX on Facebook: <a href="https://foxs.pt/CFBONFOXFacebook" target="_blank">https://foxs.pt/CFBONFOXFacebook</a><br/>Follow CFB on FOX on Twitter: <a href="https://foxs.pt/CFBONFOXTwitter" target="_blank">https://foxs.pt/CFBONFOXTwitter</a><br/>Follow CFB on FOX on Instagram: <a href="https://foxs.pt/CFBONFOXInstagram" target="_blank">https://foxs.pt/CFBONFOXInstagram</a><br/><br/>About CFB on FOX:<br/>The official home for college football on FOX — the biggest names, the biggest games, the highlights, the moments, and everything you need as a college football fan. Check out the best of Big Noon Kickoff, Gus Johnson’s Call of the Game, Joel Klatt’s Breaking the Huddle, our exclusive, live Coach’s Cams, and much, much more, right here on CFB on FOX!<br/><br/>No. 15 Louisville Cardinals vs. USC Trojans Highlights | CFB on FOX<br/><a href="https://youtu.be/FVahAjp5_yM" target="_blank">https://youtu.be/FVahAjp5_yM</a><br/><br/>CFB on FOX<br/><a href="https://www.youtube.com/c/CFBONFOX" target="_blank">https://www.youtube.com/c/CFBONFOX</a>]]></description>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <author>CFB ON FOX</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/FVahAjp5_yM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&amp;rs=AOn4CLCTpT-i1b46fu2vl0HnfHPHqcc68w"/>
-      <itunes:duration>636</itunes:duration>
-    </item>
-    <item>
-      <guid>https://rr3---sn-p5qddn7d.googlevideo.com/videoplayback?expire=1767639125&amp;ei=9LNbaauUPNLEkucP0_qDyQs&amp;ip=172.208.126.99&amp;id=o-AHcxz_k6jf8rRRHcInNXkvHOWIBDCkN9DoEtEPlSoKtx&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1767617524%2C&amp;mh=_P&amp;mm=31%2C26&amp;mn=sn-p5qddn7d%2Csn-vgqsrnz6&amp;ms=au%2Conr&amp;mv=u&amp;mvi=3&amp;pl=18&amp;rms=au%2Cau&amp;bui=AYUSA3C6B2WnRLBXCuqhq8Zhg0u3qEhRRg0yQ7w7587FVxhXL8Yxowa9juxhNzVH5qDDuEIf6FQxWu1W&amp;spc=wH4QqzuE3nntQ5Q0vJSG&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;gir=yes&amp;clen=10034615&amp;ratebypass=yes&amp;dur=205.635&amp;lmt=1728129117492855&amp;mt=1767615894&amp;fvip=1&amp;fexp=51552689%2C51565116%2C51565681%2C51580968&amp;c=ANDROID&amp;txp=5538434&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIhAIsNTDNKbfj6VZhlpc6rEcoTomazBTbtchLgBJGnOV2PAiAcW8yJEerRobbusDYrpyWvGnf5GBe6ewRh9qJSIEWhog%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRAIgFgHzyGevsxG6VR0-6ncX-NEZJCQp8PBZTblstnaS2nQCIFA9O3vVNU1yT5ddaTdbEapYdq4bpDvRLH8DWsRAyXiL</guid>
-      <link>https://rr3---sn-p5qddn7d.googlevideo.com/videoplayback?expire=1767639125&amp;ei=9LNbaauUPNLEkucP0_qDyQs&amp;ip=172.208.126.99&amp;id=o-AHcxz_k6jf8rRRHcInNXkvHOWIBDCkN9DoEtEPlSoKtx&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1767617524%2C&amp;mh=_P&amp;mm=31%2C26&amp;mn=sn-p5qddn7d%2Csn-vgqsrnz6&amp;ms=au%2Conr&amp;mv=u&amp;mvi=3&amp;pl=18&amp;rms=au%2Cau&amp;bui=AYUSA3C6B2WnRLBXCuqhq8Zhg0u3qEhRRg0yQ7w7587FVxhXL8Yxowa9juxhNzVH5qDDuEIf6FQxWu1W&amp;spc=wH4QqzuE3nntQ5Q0vJSG&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;gir=yes&amp;clen=10034615&amp;ratebypass=yes&amp;dur=205.635&amp;lmt=1728129117492855&amp;mt=1767615894&amp;fvip=1&amp;fexp=51552689%2C51565116%2C51565681%2C51580968&amp;c=ANDROID&amp;txp=5538434&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIhAIsNTDNKbfj6VZhlpc6rEcoTomazBTbtchLgBJGnOV2PAiAcW8yJEerRobbusDYrpyWvGnf5GBe6ewRh9qJSIEWhog%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRAIgFgHzyGevsxG6VR0-6ncX-NEZJCQp8PBZTblstnaS2nQCIFA9O3vVNU1yT5ddaTdbEapYdq4bpDvRLH8DWsRAyXiL</link>
-      <title>USHER, H.E.R. - Risk It All (Official Music Video)</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/3xjT-v7U8eE/hqdefault.jpg?v=6585a219"/>Listen to COMING HOME from the multi-platinum Grammy Award winning global entertainment icon here: <a href="https://ushermusic.lnk.to/COMINGHOME" target="_blank">https://ushermusic.lnk.to/COMINGHOME</a><br/><br/>“Risk It All” is a captivating track produced and written by H.E.R. and renowned songwriter Jimmy Napes. H.E.R.’s signature, compelling lyricism and impassioned production are put on display through velvety, soaring vocals that tug at the heartstrings. The song brings together these two award-winning superstars for a special collaboration that encapsulates the raw emotion and enduring strength of The Color Purple’s film’s narratives: risk, love and liberation. USHER’s signature smooth tones blend seamlessly with H.E.R.’s soulful depth, creating a hymn of resilience and courage. The “Risk It All” music video was directed by the award-winning master Dave Myers. <br/><br/>USHER & H.E.R. are joined on The Color Purple (Music From And Inspired By) Soundtrack by an incomparable array of music luminaries, including Alicia Keys, Megan Thee Stallion, Jennifer Hudson, Mary J. Blige, Fantasia, Missy Elliott, Halle Bailey, Keyshia Cole, Coco Jones, Taraji P. Henson, Timbaland, Jorja Smith, The-Dream, Celeste, Mary Mary, Darkchild, October London and more. The Color Purple (Music From And Inspired By) is the biggest R&B soundtrack in decades, boasting 17 songs from the film, 16 newly penned songs and four remixes. The Color Purple Film is only in theaters starting December 25, 2023.<br/><br/>Listen to the Soundtrack: <a href="https://vydia.lnk.to/TheColorPurple" target="_blank">https://vydia.lnk.to/TheColorPurple</a><br/><br/>Follow USHER <br/>TikTok <a href="https://www.tiktok.com/@usher" target="_blank">https://www.tiktok.com/@usher</a>  <br/>Instagram <a href="https://www.instagram.com/usher" target="_blank">https://www.instagram.com/usher</a>  <br/>Twitter <a href="https://twitter.com/usher" target="_blank">https://twitter.com/usher</a><br/>Facebook <a href="https://www.facebook.com/usher" target="_blank">https://www.facebook.com/usher</a><br/>Youtube <a href="https://www.youtube.com/usher" target="_blank">https://www.youtube.com/usher</a><br/><br/>Lyrics:<br/>Like a condition, like a religion <br/>So easily mistreated<br/>Scary decision <br/>Sometimes it’s hell and sometimes it’s heaven <br/>It’s overcomplicated, but baby, I don’t mind <br/><br/>Feeling like I’m bound to fall<br/>Close my eyes <br/>Baby, I would risk it all, yeah <br/><br/>Sometimes it’s tragic, so problematic <br/>People are crying for it <br/>People are dying for it <br/>Always the reason we still believe in <br/>Something that leaves us hurting<br/>It’s worth it, I don’t mind <br/><br/>Feeling like I’m bound to fall<br/>Close my eyes <br/>Baby, I would risk it all <br/>Just to be in love <br/>I just wanna be in love <br/>Be in love <br/><br/>I don’t mind <br/>Feeling like I’m bound to fall<br/>Baby, I close my eyes<br/>Baby, I would risk it all <br/>I don’t mind <br/>Feeling like I’m bound to fall<br/>Close my eyes <br/>Baby, I would risk it all <br/>Oh, just to be in love <br/>Be in love<br/><br/>Music Video Credits:<br/>directed by dave meyers<br/><br/>production company: freenjoy<br/>director rep: lark creative<br/>produced by nathan scherrer, stephan bielecki & brian bell<br/>director of photography: scott cunningham<br/>choreographer: tessandra chavez<br/>editor: nathan rodgers<br/>color: pavel marko<br/>vfx supervisor: jan malíř<br/>vfx by UPP<br/><br/>dancers: <br/>kerrynton alyssa jones<br/>jada e'vai walker<br/>tash crudup<br/>briana bri morrison<br/>jarrett mackenzie<br/>leconte banks<br/>jovanni soto<br/>byron patrick tittle<br/>brandon o'neal<br/>denzel chisolm<br/><br/>#USHER #HER #RiskItAll #TheColorPurple<br/><br/><a href="http://vevo.ly/4ohcoC" target="_blank">http://vevo.ly/4ohcoC</a>]]></description>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <author>Usher</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/3xjT-v7U8eE/hqdefault.jpg?v=6585a219"/>
-      <itunes:duration>206</itunes:duration>
-    </item>
   </channel>
 </rss>
 
