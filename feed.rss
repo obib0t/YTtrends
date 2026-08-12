@@ -1,30 +1,35 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="#" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rr3---sn-o097znsz.googlevideo.com/videoplayback?expire=1786521822&amp;ei=fdR7apDKONHnir4P7O-P0QY&amp;ip=20.40.214.136&amp;id=o-AKkyyYWtxUXYPjhXBykoGbBzl-obDXhLJFYSQcg4OlBK&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;cps=414&amp;met=1786500221%2C&amp;mh=tH&amp;mm=31%2C29&amp;mn=sn-o097znsz%2Csn-ojn4v5-55&amp;ms=au%2Crdu&amp;mv=u&amp;mvi=3&amp;pl=18&amp;rms=au%2Cau&amp;bui=AZFlqhP9RzF7rKEgay9o3zT3mi8NPTWL3UwdATjwO9sPyKYWR8np0OLXKKN6kNw_l04vX4eEv4qvk_-z&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=1203.884&amp;lmt=1744037529290047&amp;mt=1786499593&amp;fvip=4&amp;fexp=51565116%2C52089683&amp;c=ANDROID_VR&amp;txp=5538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AE0s2JYwRgIhAI1jMCpxiXvlgh-1wAliSXTGvwj0m2A38LlU-1AS0c5zAiEAjf2R34V6TfaD06e-Rx5WrxPw9-gVact3meWWBUG0F14%3D&amp;lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRAIgML0DasV8bOhhZiyewott_cz1uZwUOq6-LYdVCwNqWvgCIERAYsBiLbGMgB6emcrjDqMhGxA_1j-YCF70PwASm-Z_" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <link>#</link>
+    <description>Have Your Donation Matched up to $100: https://secure.givewell.org/?ms=tierzoo
+
+Footage:
+Biopixel
+Jam's Germs
+Ant Lab - Pistol Shrimp: https://youtu.be/eXR--I99S60?si=C6XMsKbNp9Ml4ZF1
+Getty Images
+Shutterstock
+Pond5
+
+Music:
+Gloom Spawn - The Legend of Zelda: Tears of the Kingdom OST
+Eyewitness Intro
+Black Ops 2 Theme
+Super Mario Sunshine - Delfino Plaza Original Soundtrack OST (HD)
+Azure Blue World (Emerald Coast) - Sonic Adventure [OST]
+Main Menu OST - Part 1   Wii Sports Resort
+Crash Bandicoot Soundtrack - N.Sanity Beach
+Donkey Kong Country Returns Music; Sunset Shore
+Ricco Harbor - Super Mario Sunshine
+Treasure Trove Cove - Banjo Kazooie
+Underwater - Super Mario World OST Extended
+Windy and Ripply (Emerald Coast) - Sonic Adventure [OST]
+The Trade Parade - Old School Runescape
+Eyewitness Outro</description>
+    <link>https://rr3---sn-o097znsz.googlevideo.com</link>
     <generator>json2rss</generator>
-    <item>
-      <guid>https://rr1---sn-p5qs7nsk.googlevideo.com/videoplayback?expire=1786280400&amp;ei=cCV4ar3bL8uBkucPi82t0As&amp;ip=48.214.55.35&amp;id=o-ADkiwpnSgZ4nnYMh1OlvusZIvqmIEDdW1va785lNDB9B&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1786258800%2C&amp;mh=bp&amp;mm=31%2C26&amp;mn=sn-p5qs7nsk%2Csn-5ualdnsk&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=16&amp;rms=au%2Cau&amp;bui=AZFlqhM2n49yejNvUNyptZfx_Bsmj8g6s9F-zaqWcnosUWT1m1ddtDptNC12MfgYt6cR2-alR94iIm9q&amp;spc=KBGBcmawtALDnjinym2nXPxjT08GSZhTscQxsGFS6UBVdRGGCnnsWI9B5w&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=480.420&amp;lmt=1749559542188465&amp;mt=1786258429&amp;fvip=5&amp;fexp=51565115%2C52089682&amp;c=ANDROID_VR&amp;txp=5538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AE0s2JYwRAIgC7EuY8EW3BHGMITVcu3eYIYOzzi3PJh3CYO0rgQ3YWkCIEHX9ZakSjY3EQsHV9jLlhjd8D05V_3SKaA6ULe9-O_U&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRgIhALDLZNDqHZLGHsBoOhL6JVWUhdG5QyfOMvm1aUewIhesAiEAvfkjef54U4fKyu3HNS4yie6Wfv8yKG-ZHHVBo36QJXs%3D</guid>
-      <link>https://rr1---sn-p5qs7nsk.googlevideo.com/videoplayback?expire=1786280400&amp;ei=cCV4ar3bL8uBkucPi82t0As&amp;ip=48.214.55.35&amp;id=o-ADkiwpnSgZ4nnYMh1OlvusZIvqmIEDdW1va785lNDB9B&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1786258800%2C&amp;mh=bp&amp;mm=31%2C26&amp;mn=sn-p5qs7nsk%2Csn-5ualdnsk&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=16&amp;rms=au%2Cau&amp;bui=AZFlqhM2n49yejNvUNyptZfx_Bsmj8g6s9F-zaqWcnosUWT1m1ddtDptNC12MfgYt6cR2-alR94iIm9q&amp;spc=KBGBcmawtALDnjinym2nXPxjT08GSZhTscQxsGFS6UBVdRGGCnnsWI9B5w&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=480.420&amp;lmt=1749559542188465&amp;mt=1786258429&amp;fvip=5&amp;fexp=51565115%2C52089682&amp;c=ANDROID_VR&amp;txp=5538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AE0s2JYwRAIgC7EuY8EW3BHGMITVcu3eYIYOzzi3PJh3CYO0rgQ3YWkCIEHX9ZakSjY3EQsHV9jLlhjd8D05V_3SKaA6ULe9-O_U&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRgIhALDLZNDqHZLGHsBoOhL6JVWUhdG5QyfOMvm1aUewIhesAiEAvfkjef54U4fKyu3HNS4yie6Wfv8yKG-ZHHVBo36QJXs%3D</link>
-      <title>House of Secrets: 9 children hidden for years in Oklahoma home found after police tip</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/__ecoyDuNRs/hqdefault.jpg"/>House of Secrets: 9 children hidden for years in Oklahoma home found after police tip<br/><br/>Subscribe to KOCO on YouTube now for more: <a href="http://bit.ly/1lGfjIl" target="_blank">http://bit.ly/1lGfjIl</a><br/><br/>Get more Oklahoma City news: <a href="http://www.koco.com" target="_blank">http://www.koco.com</a><br/>Like us: <a href="http://facebook.com/koco5" target="_blank">http://facebook.com/koco5</a><br/>Follow us: <a href="http://twitter.com/koconews" target="_blank">http://twitter.com/koconews</a><br/>Instagram: <a href="https://www.instagram.com/koco5news/" target="_blank">https://www.instagram.com/koco5news/</a>]]></description>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <author>KOCO 5 News</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/__ecoyDuNRs/hqdefault.jpg"/>
-      <itunes:duration>480</itunes:duration>
-    </item>
-    <item>
-      <guid>https://rr1---sn-p5qs7nsk.googlevideo.com/videoplayback?expire=1786280401&amp;ei=cSV4asnXKLW5kucPvfnUuAg&amp;ip=48.214.55.35&amp;id=o-AFbta-HPM2ckeHK6HSq2Ta6UhYSl7Ab_CT_6YBOxXTc-&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1786258801%2C&amp;mh=1X&amp;mm=31%2C26&amp;mn=sn-p5qs7nsk%2Csn-5ualdnzk&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=16&amp;rms=au%2Cau&amp;bui=AZFlqhPavHdNeXZjtOAcOmu3QRZ8k6p7g18Ul_Nn3OjA26iDVOE7v5SPHPtLeg5jwQEdGHlxyjGqhx7T&amp;spc=KBGBcsmzXJYFxE1iCufXQaiVBeYZmomBK-BdFDg4fqWsLoeZPiU_dO_t4Q&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=508.029&amp;lmt=1744171428465435&amp;mt=1786258429&amp;fvip=4&amp;fexp=51565115%2C52089682&amp;c=ANDROID_VR&amp;txp=5538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AE0s2JYwRQIgNO_ZblaGbkvyHAG2NEclrNwZzMR9ILoiKTcJ6T6494gCIQDEs0dXk8rs_jTFjIvT4gRd2wXsfieuZPWj2sMVw69_1g%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRQIgHEbtkzO9RQcehOPXsz_PyLENwoy8SRKv3Pu6vJWL1QMCIQDiEW4foKLHzxEZhh4Zf7bswsa_6u1IwteCxUJK5JyjXg%3D%3D</guid>
-      <link>https://rr1---sn-p5qs7nsk.googlevideo.com/videoplayback?expire=1786280401&amp;ei=cSV4asnXKLW5kucPvfnUuAg&amp;ip=48.214.55.35&amp;id=o-AFbta-HPM2ckeHK6HSq2Ta6UhYSl7Ab_CT_6YBOxXTc-&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;met=1786258801%2C&amp;mh=1X&amp;mm=31%2C26&amp;mn=sn-p5qs7nsk%2Csn-5ualdnzk&amp;ms=au%2Conr&amp;mv=u&amp;mvi=1&amp;pl=16&amp;rms=au%2Cau&amp;bui=AZFlqhPavHdNeXZjtOAcOmu3QRZ8k6p7g18Ul_Nn3OjA26iDVOE7v5SPHPtLeg5jwQEdGHlxyjGqhx7T&amp;spc=KBGBcsmzXJYFxE1iCufXQaiVBeYZmomBK-BdFDg4fqWsLoeZPiU_dO_t4Q&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;cnr=14&amp;ratebypass=yes&amp;dur=508.029&amp;lmt=1744171428465435&amp;mt=1786258429&amp;fvip=4&amp;fexp=51565115%2C52089682&amp;c=ANDROID_VR&amp;txp=5538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&amp;sig=AE0s2JYwRQIgNO_ZblaGbkvyHAG2NEclrNwZzMR9ILoiKTcJ6T6494gCIQDEs0dXk8rs_jTFjIvT4gRd2wXsfieuZPWj2sMVw69_1g%3D%3D&amp;lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&amp;lsig=APaTxxMwRQIgHEbtkzO9RQcehOPXsz_PyLENwoy8SRKv3Pu6vJWL1QMCIQDiEW4foKLHzxEZhh4Zf7bswsa_6u1IwteCxUJK5JyjXg%3D%3D</link>
-      <title>Casually Explained: The Levels of AI</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/Yw3TLDWpH7U/hqdefault.jpg"/>Tbh Sephiroth in the first Kingdom Hearts pretty high level. The first 100 people to use code CASUALLY at the link below will get 60% off of Incogni: <a href="https://incogni.com/casually" target="_blank">https://incogni.com/casually</a><br/><br/>►https://www.twitch.tv/casuallyexplained<br/>►Second Channel: <a href="https://www.youtube.com/channel/UCfR9TgEotsz7Uj7QQJ67w8A" target="_blank">https://www.youtube.com/channel/UCfR9TgEotsz7Uj7QQJ67w8A</a><br/>►https://casuallyexplained.com/<br/>►https://www.facebook.com/CasuallyExplained/ <br/>►https://twitter.com/CasuallyE<br/>►https://www.instagram.com/casually_explained/<br/>►https://www.reddit.com/r/casuallyexplained/]]></description>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <author>Casually Explained</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/Yw3TLDWpH7U/hqdefault.jpg"/>
-      <itunes:duration>508</itunes:duration>
-    </item>
   </channel>
 </rss>
 
