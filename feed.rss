@@ -1,30 +1,18 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="#" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=5BeOh1XHAVI" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <link>#</link>
+    <description>Alejandro Garnacho and Rasmus Hojlund lead the fight to turn a two-goal deficit into three points at Old Trafford on Boxing Day! 🥊
+
+▶️ Subscribe to Manchester United on YouTube at http://bit.ly/ManU_YT
+📲 Download the Man Utd app: http://manutd.co/F4c
+💻 Visit Manchester United: http://www.manutd.com
+🛒 Shop your favourite United attire: https://bit.ly/3s9uTW7
+
+#MUFC</description>
+    <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
-    <item>
-      <guid>https://www.youtube.com/watch?v=q4kF83sWp0I</guid>
-      <link>https://www.youtube.com/watch?v=q4kF83sWp0I</link>
-      <title>Can You Beat an AI Generated Escape Room?</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/q4kF83sWp0I/mqdefault.jpg"/>When an AI generates physically impossible escape rooms, what is there to do but rise to the challenge and do everything humanly possible to solve them. Glitches, version swaps, exploits. Whatever it takes. This is AI vs Humanity (in the crucial front that is minecraft escape rooms) <br/><br/><br/>➤➤ Twitter: <a href="https://twitter.com/wifiestwt" target="_blank">https://twitter.com/wifiestwt</a><br/>➤➤ Discord: <a href="https://discord.gg/zAWUuWb" target="_blank">https://discord.gg/zAWUuWb</a><br/><br/><br/>➤➤Links: shoutout chatgpt for the rooms<br/><br/><br/>This is a series called Minecraft VVSauce where I explore random features of Minecraft. Not Secret Minecraft things or Minecraft lore (like Game Theory) or Escape Rooms, actually, it is escape rooms! This is the hardest minecraft escape room. <br/><br/>#minecraft]]></description>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <author>Wifies</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/q4kF83sWp0I/mqdefault.jpg"/>
-      <itunes:duration>1367</itunes:duration>
-    </item>
-    <item>
-      <guid>https://www.youtube.com/watch?v=7s327QcK1Hc</guid>
-      <link>https://www.youtube.com/watch?v=7s327QcK1Hc</link>
-      <title>THE GREATEST CHRISTMAS GAME SHOW EVER!</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/7s327QcK1Hc/mqdefault.jpg"/>Are you excited for Christmas?<br/><br/>Check out the contestants! <br/>@FreyaNightingale <br/>@CaptainPuffy <br/>@RandolphUK <br/>@TBJZL <br/>@DannyAarons <br/>@Deji <br/><br/>⭐ SEND ME YOUR VIDEO IDEAS: <a href="https://bit.ly/Miniminter-Suggestions" target="_blank">https://bit.ly/Miniminter-Suggestions</a><br/><br/>➖ Follow me ➖<br/>📷 Instagram: <a href="https://www.instagram.com/miniminter" target="_blank">https://www.instagram.com/miniminter</a><br/>🐦 Twitter: <a href="https://twitter.com/miniminter" target="_blank">https://twitter.com/miniminter</a><br/>🎮 Twitch: <a href="https://www.twitch.tv/miniminter" target="_blank">https://www.twitch.tv/miniminter</a><br/>🎬 Second Channel: <a href="https://www.youtube.com/MM7Games" target="_blank">https://www.youtube.com/MM7Games</a><br/><br/>👕 Sidemen Clothing:  <a href="https://www.sidemenclothing.com" target="_blank">https://www.sidemenclothing.com</a><br/><br/>➖ My Equipment ➖<br/>My PC: <a href="http://bit.ly/miniminter" target="_blank">http://bit.ly/miniminter</a><br/>How I record my gameplay: <a href="http://e.lga.to/mm" target="_blank">http://e.lga.to/mm</a><br/><br/>Video uploaded by<br/>Simon/Miniminter/mm7games]]></description>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <author>Miniminter</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/7s327QcK1Hc/mqdefault.jpg"/>
-      <itunes:duration>1778</itunes:duration>
-    </item>
   </channel>
 </rss>
 
