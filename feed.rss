@@ -1,8 +1,22 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=ftaXMKV3ffE" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=yw0-mzBcGQo" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
+    <description>Go inside the locker room for Interim Head Coach Antonio Pierce's postgame victory speech following the Raiders' 20-14 win over the Kansas City Chiefs in Week 16.
+
+Visit https://www.Raiders.com for more. 
+
+#LasVegasRaiders #NFL #RaiderNation
+
+Keep up-to-date on all things Raiders: 
+Stay informed: https://www.raiders.com/tickets/newsletter
+Download our app: http://onelink.to/8ykuaj 
+Follow: https://Twitter.com/Raiders 
+Like: https://Facebook.com/Raiders 
+Shop at Raider Image: https://www.raiderimage.com/ 
+
+Start your free trial of NFL+: https://www.pjatr.com/t/RkFIS01FTEVBS01FR0lBSUlMRUg</description>
     <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
