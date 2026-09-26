@@ -1,23 +1,21 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=tnB8e6UWF6s" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=AHL9ki1uW0s" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>DD Osama ft. Sugarhill Ddot, “Baby Wait”, Out Now:
-https://DDOsama.lnk.to/BabyWait
- 
-Follow On All Platforms:
-Instagram: https://www.instagram.com/ddosama
-Twitter: https://ddosama.lnk.to/twitter
-TikTok: https://ddosama.lnk.to/tiktok
-Snapchat: https://ddosama.lnk.to/snapchat
-Spotify: https://ddosama.lnk.to/spotify
-Apple: https://ddosama.lnk.to/applemusic
-SoundCloud: https://ddosama.lnk.to/soundcloud
- 
-#DDOsama #SugarhillDdot #BabyWait
+    <description>Watch live local and primetime games, NFL RedZone, and NFL Network on Plus.NFL.com
 
-http://vevo.ly/XkIQCt</description>
+Check out our other channels:
+NFL Mundo https://www.youtube.com/mundonfl
+NFL Brasil https://www.youtube.com/c/NFLBrasilOficial
+NFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA 
+NFL Fantasy Football https://www.youtube.com/nflfantasyfootball
+NFL Play Football https://www.youtube.com/playfootball
+NFL Throwback http://www.youtube.com/nflvault
+NFL Films http://www.youtube.com/nflfilms
+NFL Network http://www.youtube.com/nflnetwork
+
+#NFL #Football #AmericanFootball</description>
     <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
