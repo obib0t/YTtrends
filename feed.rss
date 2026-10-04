@@ -1,16 +1,22 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://www.youtube.com/watch?v=Xg0LamQIxUA" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=RhGKROaO3LU" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <description>Sponsored by Factor. Use code DREW50 to get 50% off your first Factor box at https://bit.ly/40gftPG!
+    <description>Why do we fall? So we can learn to pick ourselves up.
 
-merch:
-https://www.drewgoodenshop.com/
+Merch: https://baylenlevine.com/
+Instagram: https://www.instagram.com/baylenlevine/
+Twitter: https://twitter.com/baylenlevine
+Facebook: https://www.facebook.com/baylenlevine/
+Spotify: http://open.spotify.com/user/baylenlevine
 
-follow me:
-twitter - https://www.twitter.com/drewisgooden
-instagram - https://www.instagram.com/drewisgooden</description>
+Fan mail send to:
+PO Box 1203
+10719 Alpharetta Hwy
+Roswell, GA 30077
+
+Business email: BaylenLevine@caa.com</description>
     <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
   </channel>
