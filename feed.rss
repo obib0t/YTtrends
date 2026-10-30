@@ -1,30 +1,19 @@
 <?xml version="1.0" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="#" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/watch?v=moKxoXM2OeY" rel="self" type="application/rss+xml"/>
     <title>Youtube Trending</title>
-    <link>#</link>
+    <description>Gillie and Wallo visit NBA YoungBoy at Grave Digger Mountain where he’s been on house arrest for 2 years. Despite his confinement, he still manages to be on top of the hip hop game and on the minds and hearts of his millions of fans who have taken his career to another level. With over 30 billion streams on YouTube, NBA YoungBoy is one of the most successful rappers of his generation. NBA YoungBoy talks about his life on house arrest and how he copes with loneliness. He also discusses with Gillie and Wallo about what makes them happy at this point in life and their career.
+
+PRESENTING SPONSORS
+
+BodyArmor
+Available in stores nationwide but you can head on over to the BODYARMOR Store on Amazon at https://barstool.link/BODYARMOR &amp; get yours today!
+
+Coca-Cola
+Celebrate this holiday season with @Sprite Winter Spiced Cranberry</description>
+    <link>https://www.youtube.com</link>
     <generator>json2rss</generator>
-    <item>
-      <guid>https://www.youtube.com/watch?v=jmg0y4XMMSc</guid>
-      <link>https://www.youtube.com/watch?v=jmg0y4XMMSc</link>
-      <title>New Year's 2024: Dubai puts on dazzling fireworks show from iconic Burj Khalifa</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/jmg0y4XMMSc/mqdefault.jpg"/>Dubai celebrated the New Year with another spectacular fireworks display from the iconic Burj Khalifa. <br/><br/>The elaborate fireworks display at the world's tallest skyscraper rang in 2024 with a bang, and filled the vicinity with awe and wonder at the extricate details.<br/><br/>For more info, please go to <a href="https://globalnews.ca" target="_blank">https://globalnews.ca</a><br/>Subscribe to Global News Channel HERE: <a href="http://bit.ly/20fcXDc" target="_blank">http://bit.ly/20fcXDc</a><br/>Like Global News on Facebook HERE: <a href="http://bit.ly/255GMJQ" target="_blank">http://bit.ly/255GMJQ</a><br/>Follow Global News on Twitter HERE: <a href="http://bit.ly/1Toz8mt" target="_blank">http://bit.ly/1Toz8mt</a><br/>Follow Global News on Instagram HERE: <a href="https://bit.ly/2QZaZIB" target="_blank">https://bit.ly/2QZaZIB</a><br/>#GlobalNews #NYE #NewYear2024 #NewYearsEve #dubai]]></description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <author>Global News</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/jmg0y4XMMSc/mqdefault.jpg"/>
-      <itunes:duration>531</itunes:duration>
-    </item>
-    <item>
-      <guid>https://www.youtube.com/watch?v=AHL9ki1uW0s</guid>
-      <link>https://www.youtube.com/watch?v=AHL9ki1uW0s</link>
-      <title>Baltimore Ravens vs. San Francisco 49ers | 2023 Week 16 Game Highlights</title>
-      <description><![CDATA[<img align="right" hspace="5" src="https://i.ytimg.com/vi/AHL9ki1uW0s/mqdefault.jpg"/>Watch live local and primetime games, NFL RedZone, and NFL Network on Plus.NFL.com<br/><br/>Check out our other channels:<br/>NFL Mundo <a href="https://www.youtube.com/mundonfl" target="_blank">https://www.youtube.com/mundonfl</a><br/>NFL Brasil <a href="https://www.youtube.com/c/NFLBrasilOficial" target="_blank">https://www.youtube.com/c/NFLBrasilOficial</a><br/>NFL UK <a href="https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA" target="_blank">https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA</a> <br/>NFL Fantasy Football <a href="https://www.youtube.com/nflfantasyfootball" target="_blank">https://www.youtube.com/nflfantasyfootball</a><br/>NFL Play Football <a href="https://www.youtube.com/playfootball" target="_blank">https://www.youtube.com/playfootball</a><br/>NFL Throwback <a href="http://www.youtube.com/nflvault" target="_blank">http://www.youtube.com/nflvault</a><br/>NFL Films <a href="http://www.youtube.com/nflfilms" target="_blank">http://www.youtube.com/nflfilms</a><br/>NFL Network <a href="http://www.youtube.com/nflnetwork" target="_blank">http://www.youtube.com/nflnetwork</a><br/><br/>#NFL #Football #AmericanFootball]]></description>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-      <author>NFL</author>
-      <media:thumbnail url="https://i.ytimg.com/vi/AHL9ki1uW0s/mqdefault.jpg"/>
-      <itunes:duration>872</itunes:duration>
-    </item>
   </channel>
 </rss>
 
